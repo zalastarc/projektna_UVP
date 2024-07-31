@@ -17,6 +17,7 @@ def izlusci_podatke(niz):
 print(len(izlusci_podatke(prenesi_html("https://zotks.si/priznanja/logika/"))))
 
 def izlusci_podatke_iz_posameznega_bloka(blok):
+    slovar = {}
     vzorec = re.compile(
         r'<td data-label="Skupina">(?P<Skupina>.*?)</td>.*?'
         r'<td data-label="Tekmovalec">(?P<Tekmovalec>.*?)</td>.*?'
@@ -26,7 +27,15 @@ def izlusci_podatke_iz_posameznega_bloka(blok):
         r'<td data-label="Mesto">(?P<Mesto>.*?)</td>',
         re.DOTALL)
     najdbe = vzorec.search(blok)
-    print(najdbe['Skupina'])
+    # print(najdbe['Skupina'])
+    slovar['Skupina'] = najdbe['Skupina']
+    slovar['Tekmovalec'] = najdbe['Tekmovalec']
+    slovar['Mentor'] = najdbe['Mentor']
+    slovar['Šola'] = najdbe['Šola']
+    slovar['Točke'] = najdbe['Točke']
+    slovar['Mesto'] = najdbe['Mesto']
+    return slovar
 
 
-izlusci_podatke_iz_posameznega_bloka((izlusci_podatke(prenesi_html("https://zotks.si/priznanja/logika/")))[0])
+
+# izlusci_podatke_iz_posameznega_bloka((izlusci_podatke(prenesi_html("https://zotks.si/priznanja/logika/")))[0])
