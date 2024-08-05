@@ -3,6 +3,7 @@ import csv
 from podatki_s_spleta import prenesi_html, izlusci_podatke, izlusci_podatke_iz_posameznega_bloka
 
 def naredi_csv(datoteka):
+    """Funkcija naredi csv datoteko z želenimi podatki."""
     with open(datoteka, 'w', encoding='utf8') as f:
         pisec = csv.writer(f)
         pisec.writerow(
@@ -12,7 +13,7 @@ def naredi_csv(datoteka):
                 'Mentor',
                 'Šola',
                 'Točke',
-                'Mesto',
+                'Mesto'
             ]
         )
         html = prenesi_html('https://zotks.si/priznanja/logika/')
@@ -26,7 +27,7 @@ def naredi_csv(datoteka):
                     slovar['Mentor'],
                     slovar['Šola'],
                     slovar['Točke'],
-                    slovar['Mesto'],
+                    slovar['Mesto']
                 ]
             )
 
