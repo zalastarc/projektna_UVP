@@ -1,0 +1,968 @@
+Skupina,Tekmovalec,Mentor,Šola,Točke,Mesto
+1. letnik,Primož Markovič,Ana Grozdanić Pavlin,Gimnazija Bežigrad,68,1
+1. letnik,Gal Fabjan,Savina Brcar,Gimnazija Bežigrad,66.5,2
+1. letnik,Tine Šalamon,Valentina Herbaj,Gimnazija Murska Sobota,66,3
+1. letnik,Ivan Tušek,Manca Čadež,Gimnazija Škofja Loka,64.5,4
+1. letnik,Janoš Ivanec,Hanka Lebič,Gimnazija Vič,64,5
+1. letnik,Fiona Ferlin,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",64,5
+1. letnik,Dora Ivana Šega,Ana Grozdanić Pavlin,Gimnazija Bežigrad,63,7
+1. letnik,Iza Zrnec,Sergeja Lipušček,Gimnazija Jurija Vege Idrija,62.5,8
+1. letnik,Adriana Kaloh,Miha Soršak,Prva gimnazija Maribor,62.5,8
+1. letnik,Natan Vesnaver,Jasna Kos,Gimnazija Bežigrad,62,10
+1. letnik,Neža Zaletelj,Hanka Lebič,Gimnazija Vič,61,11
+1. letnik,Ana Berc,Tanja Veber,I. gimnazija v Celju,61,11
+1. letnik,Veronika Stegel,Ana Grozdanić Pavlin,Gimnazija Bežigrad,59,13
+1. letnik,Rok Lavrič,Ana Grozdanić Pavlin,Gimnazija Bežigrad,59,13
+1. letnik,Zarja Mahnič,Neva Ećimović,Gimnazija Koper,57.5,15
+1. letnik,Ana Kreutz,Maruša Dobljekar,Gimnazija Ledina,57.5,15
+1. letnik,Ema Blumauer Praprotnik,Anže Zupanec,Gimnazija Kranj,57.5,15
+1. letnik,Iza Geržina,Miha Šušteršič,Škofijska gimnazija Vipava,55.5,18
+1. letnik,Žiga Lah,Vojko Brantuša,II. gimnazija Maribor,55,19
+1. letnik,Tiša Otorepec,Kristina Zakrajšek,Gimnazija Jožeta Plečnika Ljubljana,55,19
+1. letnik,Kristina Šmidovnik,Nataša Primožič,"Srednja šola za farmacijo, kozmetiko in zdravstvo",54.5,21
+1. letnik,Isabela Strojanšek,Janja Jakončič,Gimnazija Bežigrad,54,22
+1. letnik,Žiga Kozjek,Metod Gašperlin,Gimnazija Franceta Prešerna,54,22
+1. letnik,Benjamin Hribljan,Hanka Lebič,Gimnazija Vič,54,22
+1. letnik,Jošt Ivanuša,Hanka Lebič,Gimnazija Vič,53.5,25
+1. letnik,Ursula Gruden,Jakob Avšič,Gimnazija Nova Gorica,53.5,25
+1. letnik,Trina Klojčnik Zaplotnik,Mojca Lokar,Gimnazija Kranj,53,27
+1. letnik,Jaroslav Lotokhov,Jožef Ilija,Elektrotehniško-računalniška strokovna šola in gimnazija Ljubljana,53,27
+1. letnik,Vid Alibegović,Matko Peteh,Srednja šola Josipa Jurčiča Ivančna Gorica,53,27
+2. letnik,Katrina Žganec,Špela Tola,Gimnazija Bežigrad,68,1
+2. letnik,Florjana Benec,Jana Kete,Škofijska gimnazija Vipava,67,2
+2. letnik,Tadej Zelenc,Melita Prezelj,Gimnazija Jurija Vege Idrija,67,2
+2. letnik,Svit Miklavčič,Hanka Lebič,Gimnazija Vič,65,4
+2. letnik,Julija Golež,Saša Kelhar,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",64,5
+2. letnik,Mark Dolžan,Hanka Lebič,Gimnazija Vič,63.5,6
+2. letnik,Igor Ahec,Primož Riegler,Srednja šola Slovenska Bistrica,63,7
+2. letnik,David Ahec,Primož Riegler,Srednja šola Slovenska Bistrica,62.5,8
+2. letnik,Vasja Leo Zornada,Nevenka Jerebica,Gimnazija Koper,62.5,8
+2. letnik,Ajda Medved,Špela Tola,Gimnazija Bežigrad,62,10
+2. letnik,Ema Kerže,Špela Tola,Gimnazija Bežigrad,61,11
+2. letnik,Jakob Ritlop,Natalija Horvat,Gimnazija Franca Miklošiča Ljutomer,60.5,12
+2. letnik,Ema Mozetič Rolih,Tadeja Kobal,Srednja šola Veno Pilon Ajdovščina,59,13
+2. letnik,Amadeja Komučar,Vojko Brantuša,II. gimnazija Maribor,58.5,14
+2. letnik,Kaja Molnar,Špela Tola,Gimnazija Bežigrad,58.5,14
+2. letnik,Zoja Dragovan,Vojko Brantuša,II. gimnazija Maribor,58.5,14
+2. letnik,Rok Kobal,Miha Šušteršič,Škofijska gimnazija Vipava,58,17
+2. letnik,Nejc Rogina,Vilko Domajnko,Gimnazija Bežigrad,57.5,18
+2. letnik,Neža Kopitar,Saša Kelhar,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",57.5,18
+2. letnik,Lara Drobnič,Franc Jaklič,Gimnazija Poljane,57.5,18
+2. letnik,Aleksej Milčinović,Mihaela Koštomaj,"Šolski center Celje, Gimnazija Lava",57.5,18
+2. letnik,Anja Koritnik,Vojko Brantuša,II. gimnazija Maribor,56,22
+2. letnik,Nejc Malavašič,Mateja Vengar,Gimnazija Ledina,55.5,23
+2. letnik,Maša Tušar,Romana Vrtačič,Gimnazija Vič,54.5,24
+2. letnik,Lovro Kastelic,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",54,25
+2. letnik,Maca Camlek,Urška Markun,Gimnazija Bežigrad,53.5,26
+2. letnik,Ema Božič,Saša Kelhar,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",53.5,26
+2. letnik,Lučka Viršek Ravbar,Uroš Cotman,Gimnazija Ledina,53.5,26
+2. letnik,Nejc Dobravec,Irena Sečnik,Gimnazija Poljane,53.5,26
+3. letnik,Sara Ferreira,Jaka Kavčič,Gimnazija Škofja Loka,65,1
+3. letnik,Maša Mežnar,Jana Mahnič Šterling,Gimnazija Koper,63,2
+3. letnik,Aleksander Kosanović,Janja Jakončič,Gimnazija Bežigrad,63,2
+3. letnik,Tjaša Novak,Mitja Bončina,Gimnazija in srednja šola Kočevje,63,2
+3. letnik,Aljaž Erman,Rok Škufca,Gimnazija Kranj,62,5
+3. letnik,Miloš Radaković,Vojko Brantuša,II. gimnazija Maribor,62,5
+3. letnik,Tomaž Holc,Alenka Šuman Irgolič,Gimnazija Ptuj,62,5
+3. letnik,Patricia Király,Urška Rihtaršič,Gimnazija Bežigrad,61.5,8
+3. letnik,Nace Hranjec,Simona Vreš,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",60.5,9
+3. letnik,Lea Burja,Dušan Kavka,Gimnazija in srednja šola Rudolfa Maistra Kamnik,60,10
+3. letnik,Žiga Vučajnk,Kristijan Kocbek,I. gimnazija v Celju,59.5,11
+3. letnik,Žan Arsov,Urška Markun,Gimnazija Bežigrad,59,12
+3. letnik,Izidor Horvat,Valerija Režonja,Gimnazija Murska Sobota,57,13
+3. letnik,Rebeka Cankar,Rok Škufca,Gimnazija Kranj,56,14
+3. letnik,Katarina Vodopivec,Mateja Škrlec,Gimnazija Franca Miklošiča Ljutomer,55,15
+3. letnik,Miha Gorše Pihler,Miha Soršak,Prva gimnazija Maribor,55,15
+3. letnik,Vida Fijavž,Romana Vrtačič,Gimnazija Vič,55,15
+3. letnik,Ana Kuprivec,Vojko Brantuša,II. gimnazija Maribor,54,18
+3. letnik,Matic Nareks,Tatjana Ravničan Ganzitti,Gimnazija Celje - Center,54,18
+3. letnik,Neja Škulj,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",53.5,20
+3. letnik,Živa Kovačič,Vojko Brantuša,II. gimnazija Maribor,53,21
+3. letnik,Ela Skale,Vojko Brantuša,II. gimnazija Maribor,53,21
+3. letnik,Živa Likar Kramberger,Mateja Čarman,"Srednja vzgojiteljska šola, gimnazija in umetniška gimnazija Ljubljana",53,21
+3. letnik,Benjamin Rajer,Urška Rihtaršič,Gimnazija Bežigrad,52.5,24
+3. letnik,Aljaž Krivograd,Silva Knez,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",52,25
+3. letnik,Zara Barbarić,Urška Rihtaršič,Gimnazija Bežigrad,52,25
+3. letnik,Filip Rozoničnik,Tatjana Ravničan Ganzitti,Gimnazija Celje - Center,50.5,27
+3. letnik,Primož Jevšenak,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",50,28
+3. letnik,Matic Bratina,Irena Fabič Petrač,Gimnazija Koper,50,28
+4. letnik,Brest Lenarčič,Tatjana Cirer,Šolski center Rogaška Slatina,67,1
+4. letnik,Sofija Štefan,Irena Fabič Petrač,Gimnazija Koper,64,2
+4. letnik,Filip Zver,Natalija Horvat,Gimnazija Franca Miklošiča Ljutomer,63,3
+4. letnik,Žan Pustoslemšek,Simona Vreš,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",63,3
+4. letnik,Luka Urbanc,Urška Markun,Gimnazija Bežigrad,63,3
+4. letnik,Rok Perko,Karin Kastelic,Elektrotehniško-računalniška strokovna šola in gimnazija Ljubljana,62,6
+4. letnik,Benjamin Gašperin,Rok Škufca,Gimnazija Kranj,62,6
+4. letnik,Liza Knez,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",61.5,8
+4. letnik,Nives Gošnjak,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",60.5,9
+4. letnik,Rok Lekše,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",60,10
+4. letnik,Zoja Peteh,Matko Peteh,Srednja šola Josipa Jurčiča Ivančna Gorica,59.5,11
+4. letnik,Sanja Remškar,Rok Škufca,Gimnazija Kranj,59,12
+4. letnik,Ambrož Sovič,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",58.5,13
+4. letnik,Maks Svete,Nina Sitar,"Biotehniški izobraževalni center Ljubljana, Gimnazija in veterinarska šola",58,14
+4. letnik,Veronika Miksić,Miha Soršak,Prva gimnazija Maribor,58,14
+4. letnik,Samo Škrabar,Roman Drstvenšek,Gimnazija Brežice,57,16
+4. letnik,Bor Kavčič,Erik Vrčon,Gimnazija Tolmin,57,16
+4. letnik,Petra Zadravec,Vojko Brantuša,II. gimnazija Maribor,54.5,18
+4. letnik,Vita Kompare,Alojz Čotar,"Šolski center Srečka Kosovela Sežana, Gimnazija in ekonomska šola",54.5,18
+4. letnik,Eva Zupanc,Jaka Kavčič,Gimnazija Škofja Loka,54.5,18
+4. letnik,Patrik Dekleva,Mojca King,Srednja tehniška šola Koper - Scuola media tecnica di Capodistria,54,21
+4. letnik,Neža Žalec,Tanja Veber,I. gimnazija v Celju,54,21
+4. letnik,Lan Sraka,Jasna Kos,Gimnazija Bežigrad,53.5,23
+4. letnik,Valentin Maraž,Lorna Atanasovski,Gimnazija Nova Gorica,53.5,23
+4. letnik,Nuša Ornik,Vojko Brantuša,II. gimnazija Maribor,53.5,23
+4. letnik,Aleksander Kalacun,Vojko Brantuša,II. gimnazija Maribor,53.5,23
+4. letnik,Mark Oman,Mateja Valjavec,Gimnazija Kranj,53.5,23
+4. letnik,Mia Žele,Alojz Čotar,"Šolski center Srečka Kosovela Sežana, Gimnazija in ekonomska šola",53,28
+4. letnik,Gabriel Žnidaršič,Tjaša Košenina,Gimnazija Vič,53,28
+4. letnik,Nik Deželak,Martina Omerzel,"Šolski center Celje, Srednja šola za kemijo, elektrotehniko in računalništvo",53,28
+7. razred,Lovro Logar,Ana Nuša Rigler,Osnovna šola Primoža Trubarja Velike Lašče,68.5,1
+7. razred,Anže Hvasti,Tihana Smolej,Osnovna šola Naklo,67.5,2
+7. razred,Olivija Meta Šega,Teja Koprivc,Osnovna šola Valentina Vodnika,67.5,2
+7. razred,Iza Džuzdanović,Marjanca Komar,Osnovna šola Franceta Prešerna Kranj,66.5,4
+7. razred,Darija Kušej,Anja Smrtnik,"Osnovna šola Franceta Bevka, Ljubljana",66.5,4
+7. razred,Eva Juretič,Klavdija BRECELJ,Osnovna šola Ivana Roba Šempeter pri Gorici,66,6
+7. razred,Benjamin Kavčič,Ambrož Demšar,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",66,6
+7. razred,Benjamin Kavčič,Ambrož Demšar,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",66,6
+7. razred,Ana Lavrič,Lia Hofman,Osnovna šola Toneta Pavčka,65,9
+7. razred,Erik Golli,Andreja Urh,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",65,9
+7. razred,Tija Pesjak,Vanja Božič,Osnovna šola Antona Aškerca Velenje,64,11
+7. razred,Patrik Anžin,Lara Rugelj,Osnovna šola Mengeš,64,11
+7. razred,Tinkara Kogovšek,Tajda Štrukelj,Osnovna šola Šentvid,63.5,13
+7. razred,Luka Erak,Bernarda Tomažič,Osnovna šola Center,63.5,13
+7. razred,Brina Breznik,Tanja Černigoj,Osnovna šola Milana Šuštaršiča,63.5,13
+7. razred,Zala Svoljšak,Mojca Špende,Osnovna šola Vide Pregarc,63.5,13
+7. razred,Brigita Kočevar,Jožica Krvina,Osnovna šola Antona Martina Slomška Vrhnika,63.5,13
+7. razred,Tina Jejčič,Darja Vodopivec,Osnovna šola Šempas,63,18
+7. razred,Klara Nograšek,Jožica Cimermančič Škof,Osnovna šola Grm Novo mesto,63,18
+7. razred,Klara Petelin,Inez Ceglar,Osnovna šola Vič,63,18
+7. razred,Filip Dečko,Antonija Peteh,Osnovna šola 8 talcev Logatec,63,18
+7. razred,Žiga Marolt,Inez Ceglar,Osnovna šola Vič,63,18
+7. razred,Lovro Budja,Vesna Kuterovac,Osnovna šola Bežigrad,63,18
+7. razred,Lara Škrabelj,Mateja Alič,Osnovna šola F. S. Finžgarja Lesce,62.5,24
+7. razred,Karin JAKŠA JOVANOVSKI,Marjeta Jesenko,Osnovna šola Pirniče,62.5,24
+7. razred,Luka Mlakar,Tanja Remih,Osnovna šola Frana Kranjca Celje,62.5,24
+7. razred,LUKA HICTALER KUŠAR,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,62.5,24
+7. razred,Lara Brolih,Tina Žugelj,Osnovna šola Matije Valjavca Preddvor,62,28
+7. razred,Aneta Svenšek,Katarina Španić,Osnovna šola Šmartno pod Šmarno goro,62,28
+7. razred,Jaka Felc,Tanja Remih,Osnovna šola Frana Kranjca Celje,62,28
+7. razred,Aljaž Krivec,Nataša Šavrič,Osnovna šola Škofljica,62,28
+7. razred,Manca Lukanc,Marija Kodrin,Osnovna šola Franja Malgaja Šentjur,61.5,32
+7. razred,Klara Jeromen,Ambrož Demšar,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",61.5,32
+7. razred,Leonard Červek Roškarič,Nataša Marinič Vidonja,Osnovna šola Antona Ingoliča Spodnja Polskava ,61.5,32
+7. razred,Lana Piškur,Klavdija Štrucl,Osnovna šola Brežice,61.5,32
+7. razred,Leon Janjić,Klemen Šorak,Osnovna šola Riharda Jakopiča,61.5,32
+7. razred,Tisa Kamin,Marjana Grošelj,Osnovna šola Komenda  Moste,61,37
+7. razred,Mohor Stare,Mateja Javoršek,JVIZ osnovna šola Dobrepolje,61,37
+7. razred,Jaša Mravlje,Nataša Taleski Gržinić,Osnovna šola Trnovo,60.5,39
+7. razred,Matej Jerše,Jana Remic,Osnovna šola Predoslje Kranj,60.5,39
+7. razred,Anže Pregl,Primož Dobrovoljc,"Montessori inštitut, Zavod za pomoč staršem pri razvoju otrok - Zasebna osnovna šola montessori",60.5,39
+7. razred,Nuša Pipan,Špela Štrajhar,Osnovna šola Livada Velenje,60.5,39
+7. razred,Ema Dubravica,Dragan Raičevič,Osnovna šola Kamnica,60.5,39
+7. razred,Benjamin Strgar,Nataša Šavrič,Osnovna šola Škofljica,60,44
+7. razred,Maks Muraus,Jean Bohorč,Osnovna šola Duplek,60,44
+7. razred,Tjob Mazi Petrič,Lara Vereš,"Osnovna Šola Notranjski odred Cerknica, podružnica &quot;11. maj&quot; Grahovo",60,44
+7. razred,Tjob Mazi Petrič,Lara Vereš,"Osnovna Šola Notranjski odred Cerknica, podružnica &quot;11. maj&quot; Grahovo",60,44
+7. razred,Tinkara Bezgovšek,Anuška Vidmar Brezec,Osnovna šola Poljane Ljubljana,59.5,48
+7. razred,Ema Rodman,Maja Bulgin,Osnovna šola Milojke Štrukelj Nova Gorica,59.5,48
+7. razred,Uroš Gaberščik,Primož Trček,Osnovna šola dr. Vita Kraigherja Ljubljana,59.5,48
+7. razred,Nadja Vrbnjak,Gašper Sitar,Osnovna šola Vižmarje-Brod,59.5,48
+7. razred,Marko Pavlovič,Martina Bobič,Osnovna šola Podbočje,59.5,48
+7. razred,Erik Juršič,Uroš Medar,Osnovna šola Danile Kumar,59.5,48
+7. razred,Ema Požun,Igor Turičnik,Javni zavod Osnovna šola Marjana Nemca Radeče,59,54
+7. razred,Iva Mrkša,Petra  Mirt,Osnovna šola Podčetrtek,59,54
+7. razred,VITA VODOVNIK,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,59,54
+7. razred,Nik Korošec,Darja Mavrin,Osnovna šola Orehek Kranj,59,54
+7. razred,Oskar Smolnikar,Helena Kurent,Osnovna šola Prežihovega Voranca,58.5,58
+7. razred,Lilija Gornik,Petra Kastelic,Osnovna šola Belokranjskega odreda Semič,58.5,58
+7. razred,Matevž Jevnikar,Andreja Župec,Osnovna šola dr. Ivana Korošca Borovnica,58.5,58
+7. razred,Izak Stegel,Ana Krušič,Osnovna šola Brezovica pri Ljubljani,58.5,58
+7. razred,Lucija Dugar,Antonija Peteh,Osnovna šola 8 talcev Logatec,58.5,58
+7. razred,Anže Golčman,Andrej Novak,Osnovna šola bratov Letonja Šmartno ob Paki,58.5,58
+7. razred,Melita Leban,Petra Drnovšček,Osnovna šola Franceta Bevka Tolmin,58.5,58
+7. razred,Ajda Budna,Matevž Ocvirk,Osnovna šola Blanca,58.5,58
+7. razred,Samo Knific,Nadja Šega,Osnovna šola Trbovlje,58.5,58
+7. razred,Klea Jakin Trunkl,Tajda Štrukelj,Osnovna šola Šentvid,58,67
+7. razred,Veronika Annabell Ljumani,Vesna Viltužnik,Osnovna šola Sečovlje,58,67
+7. razred,Tristan Stergar,Sabina Prodanović,Osnovna šola Elvire Vatovec Prade,58,67
+7. razred,Tai Stanič,Doris Brne Vodpivec,Osnovna šola Antona Žnideršiča,58,67
+7. razred,Luka Bešić,Gloria Vidmar,Osnovna šola Riharda Jakopiča,58,67
+7. razred,Tara Kreutz,Katja Presetnik,Osnovna šola Vide Pregarc,58,67
+8. razred,Hana Zupančič,Kristina Kolbezen,Osnovna šola Vrhovci,54.5,1
+8. razred,Taj Birk,Uroš Medar,Osnovna šola Danile Kumar,50.5,2
+8. razred,Matic Pauman,Milena Čakš Karpov,Osnovna šola Antona Ingoliča Spodnja Polskava ,50.5,2
+8. razred,Žan Štefan Buh,Anja Šmid Pustoslemšek,Osnovna šola Orehek Kranj,50,4
+8. razred,Lara Rodman,Tatjana Boscarol,Osnovna šola Milojke Štrukelj Nova Gorica,49,5
+8. razred,Tadej Pogačar,Ana Petek Rahmmatullin,Osnovna šola Šenčur,48,6
+8. razred,Lučka Perme,Špelca Kastelic,Osnovna šola Brinje Grosuplje,48,6
+8. razred,Samo Andolšek,Marija Ahčin,Osnovna šola dr. Franceta Prešerna Ribnica,47.5,8
+8. razred,Ajda Muhvič,Alenka Pavlič,Osnovna šola Marije Vere,46.5,9
+8. razred,Lucija Veber,Ksenija Guštin,Osnovna šola Šempeter v Savinjski dolini,46.5,9
+8. razred,Vid Kovač,Patricija  Podboj Vrhovec,Osnovna šola Log - Dragomer,45,11
+8. razred,Oskar Hudomalj,Andreja Jeklin,Osnovna šola Deskle,44.5,12
+8. razred,Žan Franko,Tanja Mencin,Osnovna šola Raka,44,13
+8. razred,Dominik Rebič,Barbara Juvančič,Osnovna šola Ivana Groharja,44,13
+8. razred,Eva Lapoša,Nataša Zorec,Osnovna šola Turnišče,44,13
+8. razred,Eva Ugovšek Poznič,Nina Budna,Osnovna šola Mozirje,44,13
+8. razred,Tara Pintarič,Lilijana Zdunič,Osnovna šola Miklavž na Dravskem polju,44,13
+8. razred,Lia Kmetič,Aleš Štaher,Osnovna šola Rače,43.5,18
+8. razred,Tine Zavasnik,Sabina Smolar Vedenik,Osnovna šola Petrovče,43,19
+8. razred,Jernej Žeželj,Marjeta Košir,Osnovna šola Notranjski odred Cerknica,43,19
+8. razred,Neža Jurjevčič,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,43,19
+8. razred,Naj Strmšek,Aleksandra Goljat,Osnovna šola Pohorskega odreda Slovenska Bistrica,43,19
+8. razred,Gaber Mihael Cigler,Maja Lešnik,Osnovna šola Antona Aškerca Velenje,42.5,23
+8. razred,Zoja Šter,Mariša Tripković,Osnovna šola Milana Šuštaršiča,42.5,23
+8. razred,Boštjan Karažija,Gregor Ivanšek,Osnovna šola Jurija Vege,41.5,25
+8. razred,Ana Potočnik,Lara Rugelj,Osnovna šola Mengeš,41.5,25
+8. razred,Eva Nahtigal,Jernej Mauko,Osnovna šola Mokronog,41.5,25
+8. razred,Erin Cafuta,Nives Plemenič,Osnovna šola Breg,40,28
+8. razred,Matevž Frigelj,Aljaž Božič,Osnovna šola Velika dolina,40,28
+8. razred,Tevž Gosak,Tajana Peter,"Osnovna šola Vransko Tabor, podružnica Tabor",40,28
+8. razred,Andraž Dobrovoljc,Maruša Vrhovnik,Osnovna šola Stražišče Kranj,39.5,31
+8. razred,ENEJ ŠTEFELIN,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,39.5,31
+8. razred,Eva Hočevar,Anja Kos,Osnovna šola Božidarja Jakca,39,33
+8. razred,Zarja Jug,Tina Cotič,Osnovna šola Solkan,38.5,34
+8. razred,Mila Beltram,Klavdija BRECELJ,Osnovna šola Ivana Roba Šempeter pri Gorici,38.5,34
+8. razred,Lovro Strašek,Albina Plemenitaš,JVIZ I. osnovna šola Rogaška Slatina,38.5,34
+8. razred,Luka Vincek,Maja Kušar,Osnovna šola Toneta Okrogarja,38,37
+8. razred,Brina Gregorc,Lara Rugelj,Osnovna šola Mengeš,38,37
+8. razred,Maša Ercegovčević,Mateja Bartolj,Osnovna šola Drska,38,37
+9. razred,Andraž Čadež,Nataša Šircelj,Osnovna šola Šmartno pod Šmarno goro,59,1
+9. razred,Žan Mesarič,Nataša Jerebic,Osnovna šola Beltinci,53,2
+9. razred,Rok Živec,Mojca Sosič,Osnovna šola Srečka Kosovela Sežana,51.5,3
+9. razred,Tjaša Dobrečevič,Helena Kurent,Osnovna šola Prežihovega Voranca,51,4
+9. razred,Zala Žlebir Kožuh,Tanja Lakner,Osnovna šola Leskovec pri Krškem,49.5,5
+9. razred,Ajda Ftičar,Ksenija Smogavec,2. osnovna šola Slovenska Bistrica,48.5,6
+9. razred,Tian Kobal,Tatjana Boscarol,Osnovna šola Milojke Štrukelj Nova Gorica,48.5,6
+9. razred,Anej Firšt,Tanja Remih,Osnovna šola Frana Kranjca Celje,47.5,8
+9. razred,Luka Hozjan,Nataša Zorec,Osnovna šola Turnišče,47,9
+9. razred,Sanja Rožanec,Gregor Ivanšek,Osnovna šola Jurija Vege,47,9
+9. razred,Ema Turnšek,Petra Ramšak Drozg,I. osnovna šola Celje,46.5,11
+9. razred,Lucija Kutin,Kristina Setnikar,Osnovna šola Miška Kranjca Ljubljana,46,12
+9. razred,Miha Flis,Urška Bratuša,Osnovna šola Prebold,46,12
+9. razred,Vid Dragar,Robert Čuk,Osnovna šola Domžale,44.5,14
+9. razred,Primož Pavec,Teja Škrjanec,Osnovna šola Davorina Jenka Cerklje na Gorenjskem,44.5,14
+9. razred,Neža Rikke Rutar,Terezija Rupnik,Osnovna šola &quot;Jožeta Krajca&quot; Rakek,44.5,14
+9. razred,Anja Kordež,Katja Krivec,Osnovna šola Koroški jeklarji Ravne na Koroškem,44,17
+9. razred,Lara Šink,Neja Zubčič,Osnovna šola Predoslje Kranj,44,17
+9. razred,Boris Radović,Gašper Sitar,Osnovna šola Vižmarje-Brod,44,17
+9. razred,David Osojnik,Anja Klavs Voštič,Osnovna šola dr. Ivana Prijatelja Sodražica,43.5,20
+9. razred,Maja Arko,Anja Klavs Voštič,Osnovna šola dr. Ivana Prijatelja Sodražica,43.5,20
+9. razred,Katja Drmota,Alenka Mehle,Osnovna šola Rovte,43.5,20
+9. razred,Anže Košir,Andreja Dragovan,Osnovna šola dr. Ivana Korošca Borovnica,43,23
+9. razred,Alexandra Otunchieva,Marija Gorup,Osnovna šola Antona Ukmarja Koper,43,23
+9. razred,Niko Rakuša,Stanka Črček,Osnovna šola Ivanjkovci,43,23
+9. razred,Nika Rovan,Vilma Ošlak,Osnovna šola Vojnik,43,23
+9. razred,Tinkara Bučar,Veronika Koščak,"Osnovna šola Janka Modra, Dol pri Ljubljani",42.5,27
+9. razred,Devi Mauko Jug,Marija Kodrin,Osnovna šola Franja Malgaja Šentjur,42,28
+9. razred,Monika Omejc,Kristina Erznožnik,Osnovna šola Škofja Loka-Mesto,42,28
+9. razred,Martin Premru,Vesna Kuterovac,Osnovna šola Bežigrad,42,28
+9. razred,Maksim Janjić,Gloria Vidmar,Osnovna šola Riharda Jakopiča,41.5,31
+9. razred,Julija Trkman,Uroš Medar,Osnovna šola Danile Kumar,41.5,31
+9. razred,Tine Jocič Breskvar,Anka Katrašnik,Osnovna šola Koseze,41,33
+9. razred,Tina Petkovšek,Urša Mesec,Osnovna šola Koseze,41,33
+9. razred,Taras Vuk,Gašper Sitar,Osnovna šola Vižmarje-Brod,41,33
+7. razred,MIHA TRILER,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,53.5,1
+7. razred,Sava Ivanec,Teja Demič,Osnovna šola Kolezija,53,2
+7. razred,Žan Štefan Buh,Tadeja Kalan,Osnovna šola Orehek Kranj,53,2
+7. razred,Oskar Hudomalj,Andreja Jeklin,Osnovna šola Deskle,50.5,4
+7. razred,Ana Kapš,Andrej Prah,Osnovna šola Šmihel,50,5
+7. razred,Noela Stavrev Novak,Urška Trošt,"Osnovna šola Škofljica, Podružnična šola Lavrica",50,5
+7. razred,Vita Kozlevčar,Franci Mošnik,Osnovna šola Božidarja Jakca,49.5,7
+7. razred,Maksim Smirnov,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,49.5,7
+7. razred,Nuša Florijančič,Andrej Prah,Osnovna šola Šmihel,49,9
+7. razred,Loti Henigman,Anja Klavs Voštič,Osnovna šola dr. Ivana Prijatelja Sodražica,49,9
+7. razred,Katarina Kos,Mitja Hočevar,Osnovna šola Preska,48.5,11
+7. razred,Andraž Dobrovoljc,Maruša Vrhovnik,Osnovna šola Stražišče Kranj,48.5,11
+7. razred,Lučka Perme,Špelca Kastelic,Osnovna šola Brinje Grosuplje,48.5,11
+7. razred,Eva Lapoša,Nataša Zorec,Osnovna šola Turnišče,48,14
+7. razred,Zoja Jelovčan,Barbara Juvančič,Osnovna šola Ivana Groharja,48,14
+7. razred,Živa Majcen,Matjaž Jerala,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",48,14
+7. razred,Hana Martinjak,Ana Krušič,Osnovna šola Brezovica pri Ljubljani,48,14
+7. razred,Zal Pergar Konestabo,Ana Nuša Rigler,Osnovna šola Škofljica,48,14
+7. razred,Ajda Isa Bučevec,Tamara Planinšek,Osnovna šola Simona Jenka Kranj,48,14
+7. razred,Katja Abram,Andrej Prah,Osnovna šola Šmihel,47.5,20
+7. razred,Luka Vincek,Maja Kušar,Osnovna šola Toneta Okrogarja,47.5,20
+7. razred,Klara Kremžar,Lidija Šuštar,Osnovna šola Vodice,47.5,20
+7. razred,Tadej Pogačar,Andreja Jagodic,Osnovna šola Šenčur,47.5,20
+7. razred,Bor Bratkovič Odar,Sandra Tuksar,Dvojezična osnovna šola I Lendava,47.5,20
+7. razred,Julija Šlibar,Inez Ceglar,Osnovna šola Vič,47,25
+7. razred,Klara Hrovat,Melita Kastelic,Osnovna šola Louisa Adamiča Grosuplje,47,25
+7. razred,Taj Birk,Uroš Medar,Osnovna šola Danile Kumar,47,25
+7. razred,Gaja Malovrh,Tadeja Kalan,Osnovna šola Orehek Kranj,47,25
+7. razred,Vid Lapajne,Nevenka Baskar,Osnovna šola Simona Gregorčiča Kobarid,47,25
+7. razred,David Kopač,Ljiljana Jankovič,Osnovna šola Komandanta Staneta Dragatuš,47,25
+7. razred,Ema Marenk,Mariša Tripković,Osnovna šola Milana Šuštaršiča,47,25
+7. razred,Eda Mežnar,Petra Drnovšček,Osnovna šola Franceta Bevka Tolmin,47,25
+7. razred,Fedja Kandare,Mihaela Kljun,Osnovna šola Vodmat,46.5,33
+7. razred,Ajda Muhvič,Alenka Pavlič,Osnovna šola Marije Vere,46.5,33
+7. razred,Pia Stojaković,Antonija Peteh,Osnovna šola 8 talcev Logatec,46.5,33
+7. razred,Nal Pečnik Lah,Karin Armič,Osnovna šola Dobrova,46.5,33
+7. razred,Nur Pirc,Anka Katrašnik,Osnovna šola Koseze,46.5,33
+7. razred,Ana Rožič,Katarina Dobravec,Osnovna šola dr. Janeza Mencingerja Bohinjska Bistrica,46.5,33
+7. razred,Ana Barat,Tanja Zanjkovič,Osnovna šola Ivana Cankarja Ljutomer,46.5,33
+7. razred,Eva Nahtigal,Jernej Mauko,Osnovna šola Mokronog,46,40
+7. razred,Samo Andolšek,Marija Ahčin,Osnovna šola dr. Franceta Prešerna Ribnica,46,40
+7. razred,Zala Mozetič,Alijana Winkler,Osnovna šola Frana Erjavca Nova Gorica,46,40
+7. razred,Lara Škruba,Maja Lešnik,Osnovna šola Antona Aškerca Velenje,45.5,43
+7. razred,Vid Kovač,Patricija Podboj,Osnovna šola Log - Dragomer,45.5,43
+7. razred,Jaka De Costa,Irena Rotovnik Aplinc,Osnovna šola Karla Destovnika-Kajuha Šoštanj,45.5,43
+7. razred,Sofija Stres,Saša Kopač Jazbec,Osnovna šola Milana Šuštaršiča,45.5,43
+7. razred,Brina Hus,Petra Ramšak Drozg,I. osnovna šola Celje,45.5,43
+7. razred,Maks Pristovnik,Petra Ramšak Drozg,I. osnovna šola Celje,45.5,43
+7. razred,Ajda Logar Vračar,Manca Hribar,Osnovna šola Trzin,45,49
+7. razred,Nastja Marčić,Vlasta Zrnec,Osnovna šola Dušana Bordona Semedela-Koper,45,49
+7. razred,ENEJ ŠTEFELIN,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,45,49
+7. razred,Bor Rajtar,Karmen Škafar,Osnovna šola Franceta Prešerna Črenšovci,45,49
+7. razred,Martin Lev Štangelj,Ana Rozman,Osnovna šola Drska,45,49
+7. razred,Andraž Miheljak,Julija Krivograd Videršnik,Prva osnovna šola Slovenj Gradec,45,49
+7. razred,Monika Jagoda Konda Požek,Ana Krušič,Osnovna šola Brezovica pri Ljubljani,45,49
+7. razred,Miha Podgorelec,Helena Jus Silič,Osnovna šola Miklavž na Dravskem polju,45,49
+7. razred,Jure Šajn,Anka Katrašnik,Osnovna šola Koseze,45,49
+7. razred,Trina Hiršelj,Gloria Vidmar,Osnovna šola Riharda Jakopiča,45,49
+7. razred,Jakob Tomovski,Suzana Lisjak,Osnovna šola Ivana Babiča Jagra,45,49
+7. razred,Nina Jančič,Zmago Planinc,Osnovna šola Maksa Durjave Maribor,45,49
+8. razred,Eva Šolinc,Anja Smrtnik,"Osnovna šola Franceta Bevka, Ljubljana",59,1
+8. razred,Andraž Čadež,Nataša Šircelj,Osnovna šola Šmartno pod Šmarno goro,57,2
+8. razred,Anja Zornada,Andraž Krek,Osnovna šola Livade,56.5,3
+8. razred,Ema Turnšek,Petra Ramšak Drozg,I. osnovna šola Celje,54,4
+8. razred,Samo Fras Pečlin,Zlatka Hartman,Osnovna šola Selnica ob Dravi,51,5
+8. razred,Cora Chowdhury Pukšič,Aleš Ravnjak,Osnovna šola Kolezija,50.5,6
+8. razred,Taras Vuk,Gašper Sitar,Osnovna šola Vižmarje-Brod,50,7
+8. razred,Meta Heric,Zlatka Hartman,Osnovna šola Selnica ob Dravi,50,7
+8. razred,Tadej Llapushi,Marjetka Podlogar,Osnovna šola Krmelj,49.5,9
+8. razred,Žiga Brdar,Marko Glavan,Osnovna šola Drska,49.5,9
+8. razred,Sara Planinšek,Marija Bajc,Osnovna šola Matije Čopa Kranj,49,11
+8. razred,Julija Trkman,Uroš Medar,Osnovna šola Danile Kumar,49,11
+8. razred,Devi Mauko Jug,Marija Kodrin,Osnovna šola Franja Malgaja Šentjur,49,11
+8. razred,Ajda Vozelj,Andrej Plešej,Osnovna šola Milana Majcna Šentjanž,48.5,14
+8. razred,Mija Ferlež,Marjana Robič,II. osnovna šola Celje,48.5,14
+8. razred,Lana Čapalija,Franci Mošnik,Osnovna šola Božidarja Jakca,48.5,14
+8. razred,Neža Rikke Rutar,Sandra Palcich,Osnovna šola &quot;Jožeta Krajca&quot; Rakek,48,17
+8. razred,Marko Kosanović,Nataša Pavlič,Osnovna šola Rodica,48,17
+8. razred,Manca Valjavec,Tatjana Majdič,"Osnovna šola Janka Modra, Dol pri Ljubljani",47.5,19
+8. razred,Gala Aurednik,Aleksandra Goljat,Osnovna šola Pohorskega odreda Slovenska Bistrica,47.5,19
+8. razred,Jaka Tušar,Zala Poljanšek,Osnovna šola Tabor Logatec,47.5,19
+8. razred,Filip Hožič,Alenka Maksimović,Osnovna šola Simona Jenka Kranj,47,22
+8. razred,Maja Rihtaršič,Anka Katrašnik,Osnovna šola Koseze,47,22
+8. razred,Tea Wallner,Andreja Dragovan,Osnovna šola dr. Ivana Korošca Borovnica,47,22
+8. razred,Jurij Hudoklin,Bernarda Tomažič,Osnovna šola Center,47,22
+8. razred,Lan Štinjek,Teja Mikuž,Osnovna šola Šturje Ajdovščina,46.5,26
+8. razred,Luka Aleksander Habič,Uroš Medar,Osnovna šola Danile Kumar,46.5,26
+8. razred,Manuela Leban,Petra Drnovšček,Osnovna šola Franceta Bevka Tolmin,46.5,26
+8. razred,Ami Knaflič,Mateja Fortuna,Osnovna šola Jakoba Aljaža,46.5,26
+8. razred,Val Vodnik,Ana Krušič,Osnovna šola Brezovica pri Ljubljani,46.5,26
+8. razred,Tina Mahnič,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,46,31
+8. razred,Kaja Gantar,Dina Rudolf,Osnovna šola Idrija,46,31
+8. razred,ŠPELA BERGANT,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,46,31
+8. razred,Matevž Ašenberger,Marjetka Novak,Osnovna šola Griže,46,31
+8. razred,Taja Berkopec,Mariša Tripković,Osnovna šola Milana Šuštaršiča,45.5,35
+8. razred,Marko Čergič,Klemen Šorak,Osnovna šola Riharda Jakopiča,45,36
+8. razred,Klemen Žolnir,Aljoša Hodnik,Osnovna šola Anice Černejeve Makole,45,36
+8. razred,Nina Kuret,Smiljana Pavletič,Osnovna šola Srečka Kosovela Sežana,45,36
+8. razred,Zala Voršič Doleček,Nada Potočnik,Osnovna šola bratov Polančičev Maribor,45,36
+8. razred,Eva Prodan,Andraž Krek,Osnovna šola Livade,44.5,40
+8. razred,Rok Dubravica,Dragan Raičevič,Osnovna šola Kamnica,44.5,40
+8. razred,Vitja Kit,Polona Brečko,Osnovna šola Tabor I Maribor,44.5,40
+8. razred,David Osojnik,Anja Klavs Voštič,Osnovna šola dr. Ivana Prijatelja Sodražica,44.5,40
+8. razred,Hana Špičko,Jasmina Vaupotič,Osnovna šola Duplek,44,44
+8. razred,Tim Novak,Ines Štular,Osnovna šola Ledina,44,44
+8. razred,Julija Strašek,Petra  Mirt,Osnovna šola Podčetrtek,43.5,46
+8. razred,Špela Marinčič,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,43.5,46
+9. razred,Zala Bartol,Lidija Šuštar,Osnovna šola Vodice,60,1
+9. razred,Neža Zaletelj,Ana Nuša Rigler,Osnovna šola Škofljica,58,2
+9. razred,Tine Šalamon,Peter Škofič,Osnovna šola III Murska Sobota,58,2
+9. razred,Jure Breskvar,Marjanca Komar,Osnovna šola Franceta Prešerna Kranj,57,4
+9. razred,Izadora Kopač,Petra Zakrajšek,Osnovna šola Žiri,56.5,5
+9. razred,Živa Primožič,Vesna Nadarević,Osnovna šola Spodnja Šiška,56.5,5
+9. razred,Lana Kostanjevec,Nives Plemenič,Osnovna šola Breg,56,7
+9. razred,Lenart Skudnik,Nataša Podojsteršek,Osnovna šola Mežica,55,8
+9. razred,Eva Terpin,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,53.5,9
+9. razred,Judita Ferlan,Bojana Lakić,Osnovna šola Šmartno,53,10
+9. razred,Pia Klun,Nuša Zagorc,Osnovna šola Gornja Radgona,53,10
+9. razred,Neža Kunej,Nataša Plavčak,Osnovna šola Horjul,52.5,12
+9. razred,Tilen Kolbe,Darja Kosmač,"Osnovna šola Franca Rozmana Staneta, Ljubljana",52.5,12
+9. razred,Anastasia Petrova,Vida Lačen,Osnovna šola Olge Meglič Ptuj,52,14
+9. razred,Lana Kurajić,Klavdija Štrucl,Osnovna šola Brežice,51.5,15
+9. razred,Aljaž Bratkovič Odar,Virág Tadina Bence,Dvojezična osnovna šola I Lendava,51.5,15
+9. razred,Iza Zrnec,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,51.5,15
+9. razred,Izabela Zala Kranfogel,Peter Škofič,Osnovna šola III Murska Sobota,51.5,15
+9. razred,Natan Vesnaver,Silva Kolman,Osnovna šola Trnovo,51,19
+9. razred,Ema Blumauer Praprotnik,Irma Bertoncelj Kordež,Osnovna šola Antona Tomaža Linharta Radovljica,51,19
+9. razred,Maja Menart,Dina Rudolf,Osnovna šola Idrija,51,19
+9. razred,Benjamin Hribljan,Ambrož Demšar,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",51,19
+9. razred,Tilen Bilban,Lidija Šuštar,Osnovna šola Vodice,50.5,23
+9. razred,Iza Geržina,Darja Vodopivec,Osnovna šola Šempas,50.5,23
+9. razred,Fiona Ferlin,Vanja Božič,Osnovna šola Antona Aškerca Velenje,50.5,23
+9. razred,KLARA MATKOVIČ,Jožica Krvina,Osnovna šola Antona Martina Slomška Vrhnika,50,26
+9. razred,Zarja Mahnič,Petra Cokan ,Osnovna šola Dušana Bordona Semedela-Koper,50,26
+9. razred,Lenart Glinšek,Jolanda Krofel,Osnovna šola Gustava Šiliha Velenje,50,26
+9. razred,Sofia Srdić,Mateja Penca,Osnovna šola Toneta Čufarja,50,26
+9. razred,Sofija Botteri,Katja Rovan,Osnovna šola Mirana Jarca,50,26
+9. razred,Tjaša Škof,Sandra Palcich,Osnovna šola &quot;Jožeta Krajca&quot; Rakek,50,26
+9. razred,Rok Lavrič,Ana Šterbenc,Osnovna šola Toneta Pavčka,49.5,32
+9. razred,Ana Kreutz,Dunja Blaznik,Osnovna šola Vide Pregarc,49.5,32
+9. razred,ŠPELA BRINC,Anja Golobič,Osnovna šola Loka Črnomelj,49.5,32
+9. razred,Ivan Tušek,Monika Čemažar,Osnovna šola Železniki,49,35
+9. razred,Nikolina Belić,Nika Švaljek,Osnovna šola Martina Konšaka Maribor,49,35
+9. razred,Lana Snoj,Vesna Kuterovac,Osnovna šola Bežigrad,49,35
+9. razred,Ajda Mlinar,Lijana Kočar,Osnovna šola Toma Brejca,49,35
+9. razred,Alisa Pivk,Danijela Sanja Berložnik,Osnovna šola narodnega heroja Maksa Pečarja Črnuče,49,35
+9. razred,Jure Rant,Lidija Šuštar,Osnovna šola Vodice,49,35
+9. razred,Neža Požun,Bojana Lakić,Osnovna šola Šmartno,49,35
+9. razred,Klarisa Gorjup,Marjeta Košir,Osnovna šola Notranjski odred Cerknica,48.5,42
+9. razred,Pija Herič,Katja Bezjak,Osnovna šola Šmarje pri Jelšah,48.5,42
+9. razred,Vanesa Gregorc,Janja Nusdorfer Nedeljković,Osnovna šola Draga Bajca Vipava,48.5,42
+9. razred,Jan Petrišič,Helena Šuštar,Osnovna šola Preserje,48.5,42
+9. razred,Lea Hrvatin,Inez Ceglar,Osnovna šola Vič,48,46
+9. razred,Ana Berc,Albina Plemenitaš,JVIZ I. osnovna šola Rogaška Slatina,48,46
+9. razred,EMA ZAKOTNIK,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,48,46
+9. razred,Neli Škofca,Danijela Pezdirc,Osnovna šola Globoko,48,46
+9. razred,Zala Ogorevc,Katja Rovan,Osnovna šola Mirana Jarca,48,46
+9. razred,Matej Lenarčič,Mateja Trplan,Osnovna šola II Murska Sobota,48,46
+9. razred,Svit Hribar,Brigita Repek Juvan,Osnovna šola Frana Albrehta Kamnik,48,46
+7. razred,Marko Kosanović,Vilma Grilj,Osnovna šola Rodica,58,1
+7. razred,Lucija Kutin,Mišo Krog,Osnovna šola Miška Kranjca Ljubljana,58,1
+7. razred,Ana Kopitar,Urška Trošt,"Osnovna šola Škofljica, Podružnična šola Lavrica",57,3
+7. razred,David Osojnik,Vida Čampa,Osnovna šola dr. Ivana Prijatelja Sodražica,56.5,4
+7. razred,Gala Aurednik,Aleksandra Goljat,Osnovna šola Pohorskega odreda Slovenska Bistrica,56.5,4
+7. razred,Cora Chowdhury Pukšič,Teja Demič,Osnovna šola Kolezija,55,7
+7. razred,Elizabeta Plut,Tihana Smolej,Osnovna šola Naklo,55,7
+7. razred,Karin Umek,Robert Osolnik,Osnovna šola Venclja Perka,55,7
+7. razred,Taja Berkopec,Mariša Tripković,Osnovna šola Milana Šuštaršiča,55,7
+7. razred,Meta Heric,Zlatka Hartman,Osnovna šola Selnica ob Dravi,55,7
+7. razred,Tinkara Bučar,Tatjana Majdič,"Osnovna šola Janka Modra, Dol pri Ljubljani",54.5,12
+7. razred,Ema Turnšek,Petra Ramšak Drozg,I. osnovna šola Celje,54.5,12
+7. razred,Lara Šink,Neja Zubčič,Osnovna šola Predoslje Kranj,54.5,12
+7. razred,Sanja Rožanec,Gregor Ivanšek,Osnovna šola Jurija Vege,54.5,12
+7. razred,Ronja Tomazin,Lucija Gračner,Osnovna šola Šmarje pri Kopru,53.5,16
+7. razred,Niko Habinc,Andreja Marucelj Štrus,Osnovna šola Oskarja Kovačiča,53.5,16
+7. razred,Tea Wallner,Mojca Gutnik,Osnovna šola Šenčur,53.5,16
+7. razred,Jernej Bregar,Astrid Žibert,Osnovna šola Gradec Litija,53,19
+7. razred,Marcel Juršič,Uroš Medar,Osnovna šola Danile Kumar,52.5,20
+7. razred,Kaja Mar,Stanka Črček,Osnovna šola Ivanjkovci,52.5,20
+7. razred,Lia Pinoza,Matevž Ocvirk,Osnovna šola Blanca,52.5,20
+7. razred,Metka Zupančič,Marko Glavan,Osnovna šola Drska,52.5,20
+7. razred,Andraž Čadež,Nataša Šircelj,Osnovna šola Šmartno pod Šmarno goro,52,24
+7. razred,Matej Gorenc,Andrej Prah,Osnovna šola Šmihel,52,24
+7. razred,Maja Miklavčič,Špela Frantar,Osnovna šola Škofja Loka-Mesto,52,24
+7. razred,Tina Petkovšek,Urša Mesec,Osnovna šola Koseze,51.5,27
+7. razred,Timotej Drobnič,Mihaela Kljun,Osnovna šola Vodmat,51.5,27
+7. razred,Auri Čučnik,Nina Gros,Osnovna šola Davorina Jenka Cerklje na Gorenjskem,51.5,27
+7. razred,Julija Liza Kozinc,Nataša Podojsteršek,Osnovna šola Mežica,51.5,27
+7. razred,Brina Verovnik,Andreja Kozina,Osnovna šola Vrhovci,51.5,27
+7. razred,Neja Tolar,Maruša Vrhovnik,Osnovna šola Stražišče Kranj,51,32
+7. razred,Ana Jerala,Anja Šmid Pustoslemšek,Osnovna šola Orehek Kranj,51,32
+7. razred,ŽAN AVGUŠTIN,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,51,32
+7. razred,Jaka Taljat,Nataša Rejc,Osnovna šola Dušana Muniha,51,32
+7. razred,Stela Petrinić,Jožef Senekovič,Osnovna šola Bojana Ilicha Maribor,51,32
+7. razred,Tara Bregant,Goran Ivetić,Osnovna šola Spodnja Šiška,51,32
+7. razred,Mark Frolov,Nataša Šircelj,Osnovna šola Šmartno pod Šmarno goro,50.5,38
+7. razred,Leon Zafošnik Potočnik,Marija Zore,Osnovna šola Simona Jenka,50.5,38
+7. razred,Neža Rikke Rutar,Sandra Palcich,Osnovna šola &quot;Jožeta Krajca&quot; Rakek,50.5,38
+7. razred,Karolina Jere,Tihana Smolej,Osnovna šola Naklo,50.5,38
+7. razred,Larisa Lavrih,Ana Rebič Černe,Osnovna šola Louisa Adamiča Grosuplje,50.5,38
+7. razred,Eva Šolinc,Anja Smrtnik,"Osnovna šola Franceta Bevka, Ljubljana",50.5,38
+7. razred,Rok Dubravica,Dragan Raičevič,Osnovna šola Kamnica,50.5,38
+7. razred,Ana Dovžan,Alenka Jekovec,Osnovna šola Tržič,50.5,38
+7. razred,Matic Cimerman,Romana Kočevar,Osnovna šola Mirana Jarca Črnomelj,50,46
+7. razred,Klara Kovač,Irena Zeme,Osnovna šola Primoža Trubarja Laško,50,46
+7. razred,Zala Rogič,Nataša Frigelj,Osnovna šola dr. Jožeta Toporišiča Dobova,50,46
+7. razred,Sara Fras,Alenka Jurančič,Osnovna šola Matije Valjavca Preddvor,50,46
+7. razred,Gabriel Pagliaruzzi,Jasmina Petek Pelcl,Osnovna šola Ljudski vrt,50,46
+7. razred,Žana Utenkar,Nataša Zupančič,Osnovna šola Gabrovka - Dole,50,46
+7. razred,Lovro Perše,Alja Ogrinc,Osnovna šola Ivana Cankarja Vrhnika,50,46
+7. razred,Vesna Bregar Pavlin,Andreja Kozina,Osnovna šola Vrhovci,50,46
+7. razred,Anja Kordež,Katja Krivec,Osnovna šola Koroški jeklarji Ravne na Koroškem,50,46
+7. razred,Matevž Ašenberger,Marija Vaš,Osnovna šola Griže,50,46
+7. razred,Jakob Irt,Marko Glavan,Osnovna šola Drska,49.5,56
+7. razred,Tim Novak,Ines Štular,Osnovna šola Ledina,49.5,56
+7. razred,Ajda Vozelj,Andrej Plešej,Osnovna šola Milana Majcna Šentjanž,49.5,56
+7. razred,Sara Jankulija,Nada Potočnik,Osnovna šola bratov Polančičev Maribor,49.5,56
+7. razred,Mia Močilnikar,Astrid Žibert,Osnovna šola Gradec Litija,49.5,56
+7. razred,JAŠA UNGER,Lidija Jug,Osnovna šola Sladki Vrh,49.5,56
+7. razred,Anej Firšt,Jana Draksler,Osnovna šola Frana Kranjca Celje,49,62
+7. razred,Helena Škrlep,Ajda Opeka,Osnovna šola Mengeš,49,62
+7. razred,TAJA GRAMC,Sabina Oven,Osnovna šola Antona Martina Slomška Vrhnika,49,62
+7. razred,Larisa Robič,Urška Golob,Osnovna šola Janka Glazerja Ruše,49,62
+8. razred,Dora Ivana Šega,Teja Koprivc,Osnovna šola Valentina Vodnika,52.5,1
+8. razred,Neža Juvančič,Ajda Opeka,Osnovna šola Mengeš,51,2
+8. razred,Aljaž Bratkovič Odar,Virág Tadina Bence,Dvojezična osnovna šola I Lendava,49,3
+8. razred,Jure Breskvar,Marjanca Komar,Osnovna šola Franceta Prešerna Kranj,48.5,4
+8. razred,ŠPELA BRINC,Anja Golobič,Osnovna šola Loka Črnomelj,47,5
+8. razred,Zarja Mahnič,Petra Cokan Klabjan,Osnovna šola Dušana Bordona Semedela-Koper,46.5,6
+8. razred,Nejc Škaper,Anita Nemec,Osnovna šola Sveti Jurij,46,7
+8. razred,Pino Juvan Vene,Ana Rozman,Osnovna šola Drska,46,7
+8. razred,Žiga Čibej,Klavdija Kresnik,Osnovna šola Sostro,46,7
+8. razred,Maks Jelovčan,Rok Jamnik,Osnovna šola Medvode,45.5,10
+8. razred,Lenart Skudnik,Nataša Podojsteršek,Osnovna šola Mežica,45.5,10
+8. razred,Živa Goričan,Rafaela Voglar,Osnovna šola Draga Kobala Maribor,45.5,10
+8. razred,Alisa Kotelevska,Polona Brečko,Osnovna šola Tabor I Maribor,45,13
+8. razred,Dino Đonlagić,Tanja Mlaker,Osnovna šola Bojana Ilicha Maribor,45,13
+8. razred,Pika Gorenc,Ajda Opeka,Osnovna šola Mengeš,44.5,15
+8. razred,Ivan Tušek,Monika Čemažar,Osnovna šola Železniki,44.5,15
+8. razred,Maja Menart,Dina Rudolf,Osnovna šola Idrija,44.5,15
+8. razred,Žiga Kozjek,Simona Ostović,Osnovna šola Orehek Kranj,44,18
+8. razred,Jurij Bregar,Aleš Ravnjak,Osnovna šola Kolezija,44,18
+8. razred,Jošt Ivanuša,Silva Kolman,Osnovna šola Trnovo,43.5,20
+8. razred,Primož Markovič,Mojca Maček,Osnovna šola Milana Šuštaršiča,43.5,20
+8. razred,Brina Kosmač,Mariša Tripković,Osnovna šola Milana Šuštaršiča,43,22
+8. razred,Klemen Korče,Lara Vereš,"Osnovna Šola Notranjski odred Cerknica, podružnica &quot;11. maj&quot; Grahovo",43,22
+8. razred,Neli Stankovič,Anja Beloševič,Osnovna šola Polzela,43,22
+8. razred,Pia Klun,Nuša Zagorc,Osnovna šola Gornja Radgona,42.5,25
+8. razred,Miha Ogrinc,Vida Čampa,Osnovna šola dr. Ivan Prijatelj Sodražica,42,26
+8. razred,Jan Resman,Irma Bertoncelj Kordež,Osnovna šola Antona Tomaža Linharta Radovljica,42,26
+8. razred,Alma Medjugorac Menendez,Helena Kurent,Osnovna šola Prežihovega Voranca,42,26
+8. razred,LUČKA KRAJNC,Brigita Krulec,I. osnovna šola Žalec,42,26
+8. razred,Tine Šalamon,Peter Škofič,Osnovna šola III Murska Sobota,41.5,30
+8. razred,Lara Eržen,Justina Repina,Osnovna šola Stražišče Kranj,41.5,30
+8. razred,Matevž Kuhelj,Željka Mihić,Osnovna šola Polje,41,32
+8. razred,Jakob Kobolt,Nataša Podojsteršek,Osnovna šola Mežica,41,32
+8. razred,Emilija Šebök,Mateja Trplan,Osnovna šola II Murska Sobota,41,32
+8. razred,Anže Lenart,Irena Turičnik,Prva osnovna šola Slovenj Gradec,41,32
+8. razred,Lana Dujič,Alenka Doria Peternel,"Osnovna šola Franceta Bevka, Ljubljana",41,32
+8. razred,Manca Fortuna,Mitja Kos,Osnovna šola Valentina Vodnika,40.5,37
+8. razred,Miha Bobovnik,Inez Ceglar,Osnovna šola Vič,40,38
+8. razred,Katarina Estera Vratuša,Ana Hriberšek,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja",40,38
+8. razred,Tjaša Rojht,Nataša Petelin,Osnovna šola Malečnik,40,38
+9. razred,Mark Dolžan,Marjana Grošelj,Osnovna šola Komenda Moste,55,1
+9. razred,Martin Alojz Flisar,Danijela Sanja Berložnik,Osnovna šola narodnega heroja Maksa Pečarja Črnuče,54,2
+9. razred,Mark Peterlin Tasev,Breda Markelj,Osnovna šola Staneta Žagarja Kranj,52,3
+9. razred,Anže Kopač,Petra Zakrajšek,Osnovna šola Žiri,51.5,4
+9. razred,Ema Kerže,Bernardka Kastelic,Osnovna šola narodnega heroja Maksa Pečarja Črnuče,51,5
+9. razred,Val Srabotič,Lidija Šuštar,Osnovna šola Vodice,50,6
+9. razred,David Ahec,Ksenija Smogavec,Osnovna šola dr. Jožeta Pučnika Črešnjevec,49,7
+9. razred,Sašo Mörec,Mira Ambruš,Osnovna šola I Murska Sobota,49,7
+9. razred,David Knez,Jožica Šubelj,Osnovna šola Kašelj,49,7
+9. razred,Anika Rode,Marjana Grošelj,Osnovna šola Komenda Moste,48.5,10
+9. razred,Jakob SLAK,Marija Ločniškar,Osnovna šola Pirniče,48,11
+9. razred,Naja Oblak,Marjana Grošelj,Osnovna šola Komenda Moste,48,11
+9. razred,Tjaša Možina,Goran Ivetić,Osnovna šola Spodnja Šiška,48,11
+9. razred,Polona Kerznar,Sanja Ograjenšek,Osnovna šola Frana Kocbeka Gornji Grad,47.5,14
+9. razred,Juvencij Kalan,Urša Žitko,Osnovna šola Koseze,47.5,14
+9. razred,Ajd Hodžar,Lidija Šuštar,Osnovna šola Vodice,47.5,14
+9. razred,Domen Stare,Katja Presetnik,Osnovna šola Vide Pregarc,47.5,14
+9. razred,Anže Markovič,Dragana Jurić,Osnovna šola Milana Šuštaršiča,47,18
+9. razred,Din Hairlahović,Robert Osolnik,Osnovna šola Venclja Perka,47,18
+9. razred,Anja Gornik,Andreja Marucelj Štrus,Osnovna šola Oskarja Kovačiča,47,18
+9. razred,Matic Izak,Teja Koprivc,Osnovna šola Valentina Vodnika,46.5,21
+9. razred,Maša Tušar,Tinkara Rojko,Osnovna šola Tabor Logatec,46.5,21
+9. razred,Sara Frelih,Tihana Smolej,Osnovna šola Naklo,46.5,21
+9. razred,Nejc Rogina,Ana Nuša Rigler,Osnovna šola Škofljica,46,24
+9. razred,Zala Končan,Nataša Plavčak,Osnovna šola Horjul,46,24
+9. razred,Tifani Bergel,Jožica Višnar,Osnovna šola 16. decembra Mojstrana,46,24
+9. razred,Nik Strommer Sešel,Tanja Mencin,Osnovna šola Raka,45.5,27
+9. razred,Anja Koritnik,Bernarda Slodnjak Pernek,Osnovna šola Janka Padežnika Maribor,45.5,27
+9. razred,Aljaž Ambrožič,Metka Jemec,Osnovna šola prof. dr. Josipa Plemlja Bled,45.5,27
+9. razred,Katja Prijanovič,Inez Ceglar,Osnovna šola Vič,45.5,27
+9. razred,Domen Halužan,Mateja Rezar Ulaga,Osnovna šola Hruševec Šentjur,45,31
+9. razred,Lara Drobnič,Marjeta Košir,Osnovna šola Notranjski odred Cerknica,45,31
+9. razred,Aljaž Šolar,Maja Vreček,Osnovna šola Janeza Puharja Kranj-Center,44.5,33
+9. razred,Dominik Vasle,Uroš Medar,Osnovna šola Danile Kumar,44,34
+9. razred,Laura Vehovar,Marko Pongračič,Osnovna šola Toneta Čufarja Maribor,44,34
+9. razred,Urh Šajtegel,Urška Juričinec,Osnovna šola Olge Meglič Ptuj,44,34
+9. razred,Enej Lah Pečnik,Karin Armič,Osnovna šola Dobrova,43.5,37
+9. razred,Maša Neja Golob,Marina Mokotar,Osnovna šola Tončke Čeč,43.5,37
+9. razred,Igor Ahec,Ksenija Smogavec,Osnovna šola dr. Jožeta Pučnika Črešnjevec,43.5,37
+9. razred,Tibor Hvala,Gregor Žagar,Osnovna šola Valentina Vodnika,43.5,37
+9. razred,Ema Božič,Jana Gabrovšek Šebenik,Osnovna šola Log - Dragomer,43.5,37
+9. razred,Matic Jakšič,Bernardka Kastelic,Osnovna šola narodnega heroja Maksa Pečarja Črnuče,43,42
+9. razred,Manca Peternel,Miha Bašelj,Osnovna šola Zadobrova,43,42
+9. razred,MACA CAMLEK,TEJA BERGANT,Osnovna šola Cvetka Golarja Škofja Loka,43,42
+9. razred,Dante Lampreht Zenzerović,Uroš Medar,Osnovna šola Danile Kumar,42,45
+9. razred,Zarja Čibej,Klavdija Kresnik,Osnovna šola Sostro,42,45
+9. razred,Živa Jemenšek,Anica Zarnec,Osnovna šola Lenart,42,45
+9. razred,Zala Vnuk,Simona Pestotnik,Osnovna šola Riharda Jakopiča,42,45
+9. razred,Gregor Samsa,Helena Delak,Osnovna šola Miroslava Vilharja Postojna,41.5,49
+9. razred,Nejc Krašna,Evgenija Godnič,Osnovna šola Šturje Ajdovščina,41.5,49
+9. razred,Rok Tisnikar,Marija Gorup,Osnovna šola Antona Ukmarja Koper,41.5,49
+7. razred,Miha Ogrinc,Vida Čampa,Osnovna šola dr. Ivan Prijatelj Sodražica,"63,00",1
+7. razred,Daša Pajor,Lidija Šuštar,Osnovna šola Vodice,"63,00",1
+7. razred,Bor Gradišek,Manica Kolar,Osnovna šola Kozje,"63,00",1
+7. razred,Neža Zaletelj,Ana Nuša Rigler,Osnovna šola Škofljica,"62,00",4
+7. razred,Anastasiia Petrova,Urška Trošt,Osnovna šola Škofljica,"61,00",5
+7. razred,Lea Hrvatin,Inez Ceglar,Osnovna šola Vič,"61,00",5
+7. razred,Katarina Estera Vratuša,Urša Župec,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja","61,00",5
+7. razred,Jure Breskvar,Marjanca Komar,Osnovna šola Franceta Prešerna Kranj,"61,00",5
+7. razred,Špela Brinc,Anja Golobič,Osnovna šola Loka Črnomelj,"61,00",5
+7. razred,Zarja Mahnič,Irena Parovel,Osnovna šola Dušana Bordona Semedela Koper,"61,00",5
+7. razred,Žiga Lah,Barbara Kovač,Osnovna šola in vrtec Apače,"60,00",11
+7. razred,Lana Kurajić,Klavdija Štrucl,Osnovna šola Brežice,"60,00",11
+7. razred,Lana Snoj,Vesna Jovanović,Osnovna šola Bežigrad,"59,00",13
+7. razred,Dora Ivana Šega,Teja Koprivc,Osnovna šola Valentina Vodnika,"59,00",13
+7. razred,Tim Anzelj,Vesna Drole Uršič,Osnovna šola Mirna,"59,00",13
+7. razred,Tadeja Bone,Nataša Bavčar,Osnovna šola Danila Lokarja Ajdovščina,"59,00",13
+7. razred,Taja Šparovec,Teja Bergant,Osnovna šola Cvetka Golarja Škofja Loka,"59,00",13
+7. razred,Ivan Tušek,Vesna Božič,Osnovna šola Železniki,"59,00",13
+7. razred,Tine Šalamon,Peter Škofič,Osnovna šola III Murska Sobota,"59,00",13
+7. razred,Lučka Anderluh,Ana Krušič,Osnovna šola Brezovica pri Ljubljani,"59,00",13
+7. razred,Gal Fabjan,Urška Trošt,Osnovna šola Škofljica,"58,00",21
+7. razred,Aleša Gačnik,Vesna Jovanović,Osnovna šola Bežigrad,"58,00",21
+7. razred,Tina Vilfan Kavčič,Gašper Sitar,Osnovna šola Vižmarje Brod,"58,00",21
+7. razred,Jurij Bregar,Terezija Oblak,Osnovna šola Kolezija,"58,00",21
+7. razred,Mina Primožič,Neža Poljanc,Osnovna šola Križe,"58,00",21
+7. razred,Lenart Skudnik,Nataša Podojsteršek,Osnovna šola Mežica,"58,00",21
+7. razred,Anže Lenart,Katja Kotnik,Prva osnovna šola Slovenj Gradec,"58,00",21
+7. razred,Primož Markovič,Saša Kopač Jazbec,Osnovna šola Milana Šuštaršiča,"57,00",28
+7. razred,Jakob Lapajne Melink,Klavdija Brecelj,Osnovna šola Ivana Roba Šempeter pri Gorici,"57,00",28
+7. razred,Tobija Lakić,Nataša Brodnjak,Osnovna šola Kidričevo,"57,00",28
+7. razred,Liza Poljanšek,Petra Zakrajšek,Osnovna šola Žiri,"57,00",28
+7. razred,Mija Novak,Petra Zakrajšek,Osnovna šola Žiri,"57,00",28
+7. razred,Izadora Kopač,Petra Zakrajšek,Osnovna šola Žiri,"57,00",28
+7. razred,Pia Klun,Nuša Zagorc,Osnovna šola Gornja Radgona,"57,00",28
+7. razred,Rebeka Hozjan,Antonija Peteh,Osnovna šola 8 talcev Logatec,"57,00",28
+7. razred,Maja Menart,Dina Rudolf,Osnovna šola Idrija,"57,00",28
+7. razred,Adam Bürmen,Silva Kolman,Osnovna šola Trnovo,"56,00",37
+7. razred,Tjaša Jančič,Petra Oblak,Osnovna šola Poljane,"56,00",37
+7. razred,Tinkara Potočnik,Katja Krivec,Osnovna šola Koroški jeklarji Ravne na Koroškem,"56,00",37
+7. razred,Lado Erjavec,Nataša Budna Stanta,Osnovna šola Podgorje,"56,00",37
+7. razred,Neža Juvančič,Vesna Skerlovnik Horvat,Osnovna šola Mengeš,"56,00",37
+7. razred,Ažbe Turičnik,Andreja Žužel,Osnovna šola Šmartno pri Slovenj Gradcu,"56,00",37
+7. razred,Mila Zenkovič,Robert Osolnik,Osnovna šola Venclja Perka,"56,00",37
+7. razred,Brina Lampret,Aleksandra Goljat,Osnovna šola Pohorskega odreda Slovenska Bistrica,"56,00",37
+8. razred,Lana Pirc,Klemen Kovačič,Osnovna šola Zbora odposlancev Kočevje,"75,00",1
+8. razred,Sara Molnar,Aleš Sakelšek,Osnovna šola Hajdina,"74,00",2
+8. razred,Katrina Žganec,Alenka Maksimović,Osnovna šola Simona Jenka Kranj,"73,00",3
+8. razred,Zala Zbačnik,Sandra Palcich,Osnovna šola Jožeta Krajca Rakek,"73,00",3
+8. razred,Lara Drobnič,Nuša Ponikvar,Osnovna šola Notranjski odred Cerknica,"72,50",5
+8. razred,Jan Bavdek,Mateja Fortuna,Osnovna šola Jakoba Aljaža,"72,00",6
+8. razred,Zala Končan,Nataša Plavčak,Osnovna šola Horjul,"70,50",7
+8. razred,Mark Dolžan,Marjana Grošelj,Osnovna šola Komenda  Moste,"70,00",8
+8. razred,David Ahec,Ksenija Smogavec,Osnovna šola dr. Jožeta Pučnika Črešnjevec,"70,00",8
+8. razred,Vid Pleterski,Simona Smrekar Krmc,Osnovna šola Frana Metelka Škocjan,"67,50",10
+8. razred,Miha Vaupotič,Mateja Očko,Osnovna šola Kidričevo,"67,50",10
+8. razred,Lina Legan,Petra Gumzej,Osnovna šola Brinje Grosuplje,"67,50",10
+8. razred,Neža Kopitar,Ana Nuša Rigler,Osnovna šola Škofljica,"67,50",10
+8. razred,Matic Grilc,Roman Drstvenšek,Osnovna šola Blanca,"66,50",14
+8. razred,Eva Strojin,Martina Bobič,Osnovna šola Podbočje,"65,50",14
+8. razred,Tadej Zelenc,Dina Rudolf,Osnovna šola Idrija,"64,50",16
+8. razred,Zarja Čibej,Klavdija Kresnik,Osnovna šola Sostro,"64,50",16
+8. razred,Marcel Bida Kranjc,Andreja Štor,Osnovna šola Dr. Vita Kraigherja Ljubljana,"64,00",18
+8. razred,Benjamin Brecelj,Urša Župec,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja","63,50",19
+8. razred,David Knez,Tanja Žontar,Osnovna šola Kašelj,"62,00",20
+8. razred,Svit Mihelak,Petra Ramšak Drozg,I. osnovna šola Celje,"62,00",20
+8. razred,Anja Koritnik,Suzana Tomšič Mavrič,Osnovna šola Janka Padežnika Maribor,"62,00",20
+8. razred,Maša Macedoni,Jožica Šubelj,Osnovna šola Kašelj,"61,50",23
+8. razred,Tibor Hvala,Gregor Žagar,Osnovna šola Valentina Vodnika,"61,50",23
+8. razred,Iris Županič,Gašper Sitar,Osnovna šola Vižmarje Brod,"61,00",25
+8. razred,Lara Košir,Petra Mirt,Osnovna šola Podčetrtek,"61,00",25
+8. razred,Nejc Rogina,Ana Nuša Rigler,Osnovna šola Škofljica,"61,00",25
+8. razred,Monika Šeruga,Mihael Škrget,Osnovna šola Stopiče,"60,50",28
+8. razred,Martin Alojz Flisar,Danijela Sanja Berložnik,Osnovna šola narodnega heroja Maksa Pečarja Črnuče,"60,50",28
+8. razred,Beno Poljanec,Nataša Rejc,Osnovna šola Dušana Muniha,"60,00",30
+8. razred,Maks Tomšič,Barbara Juvančič,Osnovna šola Ivana Groharja,"60,00",30
+8. razred,Amadeja Komučar,Lea Mlinar,2. osnovna šola Slovenska Bistrica,"60,00",30
+8. razred,Florjana Benec,Helena Delak,Osnovna šola Miroslava Vilharja Postojna,"59,50",33
+8. razred,Urban Pleša,Marjanca Komar,Osnovna šola Franceta Prešerna Kranj,"59,00",34
+8. razred,Anton Kosem,Tatjana Majdič,"Osnovna šola Janka Modra, Dol pri Ljubljani","59,00",34
+8. razred,Luka Hribar,Tina Špringer,Osnovna šola Brusnice,"58,50",36
+8. razred,Gal Boltauzer,Nejc Barovič,Osnovna šola Ludvika Pliberška,"58,50",36
+8. razred,Špela Škufca,Darja Mavrin,Osnovna šola Orehek Kranj,"58,00",38
+8. razred,Luka Heric,Zlatka Hartman,Osnovna šola Selnica ob Dravi,"58,00",38
+8. razred,Tijan Nartnik,Janja Gabrovšek Šebenik,Osnovna šola Log - Dragomer,"58,00",38
+8. razred,Domen Halužan,Mateja Rezar Ulaga,Osnovna šola Hruševec Šentjur,"57,50",41
+8. razred,Ela Bakan,Petra Gumzej,Osnovna šola Brinje Grosuplje,"57,50",41
+8. razred,Zara Rek Zečević,Ana Nuša Rigler,Osnovna šola Škofljica,"57,00",43
+8. razred,Anže Markovič,Franc Renko,Osnovna šola Milana Šuštaršiča,"57,00",43
+8. razred,Živa Hutar,Jožica Cimermančič Škof,Osnovna šola Grm,"57,00",43
+8. razred,Lara Horvat,Mateja Trplan,Osnovna šola II Murska Sobota,"57,00",43
+9. razred,Tomaž Holc,Andreja Roškar Kop,Osnovna šola Breg,"75,00",1
+9. razred,Aleksander Kosanović,Vilma Grilj,Osnovna šola Rodica,"75,00",1
+9. razred,Maša Mežnar,Petra Drnovšček,Osnovna šola Franceta Bevka Tolmin,"75,00",1
+9. razred,Nadira Jumagulova,Inez Ceglar,Osnovna šola Vič,"74,50",4
+9. razred,Lara Stoilov Spasova,Renata Fink,Osnovna šola Matije Čopa Kranj,"73,50",5
+9. razred,Gabrijela Tisaj,Barbara Krištofič Kobal,Osnovna šola Nove Jarše,"72,00",6
+9. razred,Benjamin Rajer,Lidija Šuštar,Osnovna šola Vodice,"72,00",6
+9. razred,Rebeka Cankar,Martina Erznožnik,Osnovna šola Žiri,"72,00",6
+9. razred,Natalija Benegalija,Mihaela Kljun,Osnovna šola Vodmat,"71,50",9
+9. razred,Eva Guzelj,Kristina Erznožnik,Osnovna šola Škofja Loka-Mesto,"71,00",10
+9. razred,Benjamin Bras Meglič,Urša Župec,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja","71,00",10
+9. razred,Iza Svetlin,Damijana Križnik Vrhovec,Osnovna šola Dob,"71,00",10
+9. razred,Nuša Šef,Astrid Žibert,Osnovna šola Gradec Litija,"70,50",13
+9. razred,Tjaša Novak,Helena Mate Lovšin,Osnovna šola Stara Cerkev,"70,00",14
+9. razred,Julija Kuhar,Ana Petek,Osnovna šola Šenčur,"70,00",14
+9. razred,Anže Konjar,Tihana Smolej,Osnovna šola Naklo,"70,00",14
+9. razred,Sara Ferreira,Martina Erznožnik,Osnovna šola Žiri,"70,00",14
+9. razred,Patricia Kiraly,Katja Rovan,Osnovna šola Mirana Jarca,"69,50",18
+9. razred,Nina Bovha,Petra Mirt,Osnovna šola Podčetrtek,"69,50",18
+9. razred,Lenart Erznožnik,Martina Erznožnik,Osnovna šola Žiri,"69,50",18
+9. razred,Doroteja Porenta,Andreja Pagon,Osnovna šola Franceta Bevka Ljubljana,"68,50",21
+9. razred,Zoja Gloria Hernaus,Vesna Nadarević,Osnovna šola Spodnja Šiška,"68,50",21
+9. razred,Štefan Jošt,Tihana Smolej,Osnovna šola Naklo,"68,50",21
+9. razred,Lea Burja,Lijana Kočar,Osnovna šola Toma Brejca,"68,50",21
+9. razred,Ana Vesel,Andreja Pagon,Osnovna šola Franceta Bevka Ljubljana,"68,00",25
+9. razred,Živa Kovačič,Jure Cvahte,Osnovna šola Gustava Šiliha Laporje,"68,00",25
+9. razred,Zoja Nina Garafol,Andreja Marucelj Štrus,Osnovna šola Oskarja Kovačiča,"68,00",25
+9. razred,Maša Svetec,Lijana Kočar,Osnovna šola Toma Brejca,"68,00",25
+9. razred,Rebeka Adamič,Petra Kastelic,Osnovna šola Belokranjskega odreda Semič,"68,00",25
+9. razred,Ema Groff,Gašper Sitar,Osnovna šola Vižmarje Brod,"67,50",30
+9. razred,Domen Kavčič,Mišo Krog,Osnovna šola Miška Kranjca Ljubljana,"66,50",31
+9. razred,Miloš Radaković,Nina Higl,Osnovna šola Tabor I Maribor,"66,00",32
+9. razred,Katarina Adam,Tatjana Kramar,Osnovna šola Majde Vrhovnik,"65,50",33
+9. razred,Taja Ajnihar,Andrej Plešej,Osnovna šola Milana Majcna Šentjanž,"65,50",33
+9. razred,Jon Košat,Jernej Regvat,Osnovna šola Prežihovega Voranca Maribor,"65,50",33
+9. razred,Zara Barbarić,Vida Zupančič,Osnovna šola Prule,"64,50",36
+9. razred,Ana Julija Ažnoh,Sergej Tratnik,Osnovna šola Bojana Ilicha Maribor,"64,50",36
+9. razred,Tinkara Ulrih,Zlatka Ferlinc,Osnovna šola Bojana Ilicha Maribor,"64,00",38
+9. razred,Sebastjan Perovnik,Urša Župec,"Zavod sv. Stanislava, Osnovna šola Alojzija Šuštarja","63,50",39
+9. razred,Teja Verdenik,Marija Kodrin,Osnovna šola Franja Malgaja Šentjur,"63,50",39
+9. razred,Tevž Levstik,Jasmina Petek Pelcl,Osnovna šola Ljudski vrt,"63,00",41
+9. razred,Žiga Vučajnk,Ksenija Guštin,Osnovna šola Šempeter v Savinjski dolini,"62,50",42
+9. razred,Jože Šenk,Ana Petek,Osnovna šola Šenčur,"62,50",42
+9. razred,Maša Medvešek,Robert Osolnik,Osnovna šola Venclja Perka,"62,50",42
+1. letnik,Martin Alojz Flisar,Ana Dečman Zgonik,Gimnazija Bežigrad,65.5,1
+1. letnik,Jan Luka Fatur,Nevenka Jerebica,Gimnazija Koper,64.5,2
+1. letnik,Lara Peruš,Simona Vreš,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",63.5,3
+1. letnik,Ema Kerže,Ana Dečman Zgonik,Gimnazija Bežigrad,63.5,3
+1. letnik,Vid Pleterski,Urška Markun,Gimnazija Bežigrad,63.5,3
+1. letnik,Rok Tisnikar,Nevenka Jerebica,Gimnazija Koper,63,6
+1. letnik,Tadej Zelenc,Melita Prezelj,Gimnazija Jurija Vege Idrija,62.5,7
+1. letnik,Anika Rode,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",62.5,7
+1. letnik,Svit Miklavčič,Hanka Lebič,Gimnazija Vič,62,9
+1. letnik,Sašo Mörec,Sandra Pančor,Gimnazija Murska Sobota,61,10
+1. letnik,Ajd Hodžar,Urška Markun,Gimnazija Bežigrad,61,10
+1. letnik,Luka Filak,Karmen Čarman,Gimnazija Novo mesto,60,12
+1. letnik,Tisa Lombar,Nataša Šuligoj,Gimnazija Vič,60,12
+1. letnik,Luka Heric,Vojko Brantuša,II. gimnazija Maribor,59,14
+1. letnik,Tjaša Demšar,Manca Čadež,Gimnazija Škofja Loka,59,14
+1. letnik,Anže Markovič,Urška Markun,Gimnazija Bežigrad,58,16
+1. letnik,Jakob Slak,Nataša Šuligoj,Gimnazija Vič,56,17
+1. letnik,Zala Končan,Tamara Možina Artač,Gimnazija Ledina,55,18
+1. letnik,Jošt Kalan,Manca Čadež,Gimnazija Škofja Loka,55,18
+1. letnik,David Ahec,Primož Riegler,Srednja šola Slovenska Bistrica,55,18
+1. letnik,Ivana Vodopivec,Marko Vidmar,Gimnazija Nova Gorica,54.5,21
+1. letnik,Aljaž Šolar,Rok Škufca,Gimnazija Kranj,54.5,21
+2. letnik,Tomaž Holc,Alenka Šuman Irgolič,Gimnazija Ptuj,67,1
+2. letnik,Patricia Király,Urška Rihtaršič,Gimnazija Bežigrad,67,1
+2. letnik,Sara Ferreira,Jaka Kavčič,Gimnazija Škofja Loka,66,3
+2. letnik,Alina Tomažič,Vojko Brantuša,II. gimnazija Maribor,64,4
+2. letnik,Nace Hranjec,Simona Vreš,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",62,5
+2. letnik,Tjaša Novak,Mitja Bončina,Gimnazija in srednja šola Kočevje,61.5,6
+2. letnik,Zara Barbarić,Urška Rihtaršič,Gimnazija Bežigrad,61,7
+2. letnik,Katarina Vodopivec,Mateja Škrlec,Gimnazija Franca Miklošiča Ljutomer,60,8
+2. letnik,Jana Bastič,Lea Turnšek,Gimnazija Celje - Center,59.5,9
+2. letnik,Izabela Stres,Savina Brcar,Gimnazija Bežigrad,58.5,10
+2. letnik,Vida Fijavž,Romana Vrtačič,Gimnazija Vič,58.5,10
+2. letnik,Tinkara Ulrih,Vojko Brantuša,II. gimnazija Maribor,58,12
+2. letnik,Kaja Supej,Savina Brcar,Gimnazija Bežigrad,58,12
+2. letnik,Aleksej Mavri,Matjaž Trošt,Srednja šola Veno Pilon Ajdovščina,58,12
+2. letnik,Nika Blažič,Mija Razpotnik,Gimnazija Novo mesto,57.5,15
+2. letnik,Aljaž Erman,Rok Škufca,Gimnazija Kranj,57.5,15
+2. letnik,Ana Kuprivec,Vojko Brantuša,II. gimnazija Maribor,57,17
+2. letnik,Alja Šebenik,Vanja Špelko,Gimnazija Vič,56.5,18
+2. letnik,Matevž Strnišnik,Dušan Kavka,Gimnazija in srednja šola Rudolfa Maistra Kamnik,56.5,18
+2. letnik,Tina Planko,Kristijan Kocbek,I. gimnazija v Celju,56,20
+2. letnik,Maja Mamič,Lorna Atanasovski,Gimnazija Nova Gorica,56,20
+3. letnik,Filip Zver,Natalija Horvat,Gimnazija Franca Miklošiča Ljutomer,70,1
+3. letnik,Val Bajc,Saša Kelhar,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",69,2
+3. letnik,Ambrož Sovič,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",61.5,3
+3. letnik,Rok Perko,Karin Kastelic,Elektrotehniško-računalniška strokovna šola in gimnazija Ljubljana,56.5,4
+3. letnik,Peter Andolšek,Urška Markun,Gimnazija Bežigrad,56,5
+3. letnik,Brest Lenarčič,Tatjana Cirer,Šolski center Rogaška Slatina,56,5
+3. letnik,Miha Kosanc,Monika Rebernišek,Gimnazija Bežigrad,56,5
+3. letnik,Samo Škrabar,Roman Drstvenšek,Gimnazija Brežice,55,8
+3. letnik,Sofija Štefan,Irena Fabič Petrač,Gimnazija Koper,53.5,9
+3. letnik,Sanja Remškar,Rok Škufca,Gimnazija Kranj,53,10
+3. letnik,Luka Golob Šajn,Urška Markun,Gimnazija Bežigrad,49,11
+3. letnik,Petra Zadravec,Vojko Brantuša,II. gimnazija Maribor,48.5,12
+3. letnik,Ambrož Vovk,Marta Zabret,Gimnazija in srednja šola Rudolfa Maistra Kamnik,48,13
+3. letnik,Matic Kink,Barbara Valentinčič Barlič,Gimnazija Brežice,47.5,14
+3. letnik,Lana Koren,Vojko Brantuša,II. gimnazija Maribor,47,15
+3. letnik,Nives Gošnjak,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",46.5,16
+3. letnik,Nuša Ornik,Vojko Brantuša,II. gimnazija Maribor,46.5,16
+3. letnik,Mark Sitar,Jerneja Kučina,Gimnazija Jesenice,46,18
+3. letnik,Jakob Žorž,Jaka Kavčič,Gimnazija Škofja Loka,45.5,19
+3. letnik,Žan Pustoslemšek,Silva Knez,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",45.5,19
+3. letnik,Erazem Jošt,Rudi Valenčič,Šolski center Postojna,45,21
+3. letnik,Živa Matjaž,Petra Mrzdovnik,Srednja zdravstvena in kozmetična šola Celje,44,22
+4. letnik,Katarina Grilj,Primož Riegler,Srednja šola Slovenska Bistrica,69.5,1
+4. letnik,Jedrt Šinkovec,Manca Čadež,Gimnazija Škofja Loka,67,2
+4. letnik,Urška Končar,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",62,3
+4. letnik,Julija Brecl,Dušan Kavka,Gimnazija in srednja šola Rudolfa Maistra Kamnik,60,4
+4. letnik,Val Vidmar,Jernej Ban,Gimnazija Novo mesto,58.5,5
+4. letnik,Ema Frančeškin,Mojca Zgonik Bizjak,Gimnazija Nova Gorica,57.5,6
+4. letnik,Ivana Horvat,Jernej Ban,Gimnazija Novo mesto,56.5,7
+4. letnik,Alica Muratović Romih,Špela Tola,Gimnazija Bežigrad,56,8
+4. letnik,Zarja Javh Dobernik,Vilko Domajnko,Gimnazija Bežigrad,55,9
+4. letnik,Vita Korošin,Vilko Domajnko,Gimnazija Bežigrad,54.5,10
+4. letnik,Aleš Bajcar,Hanka Lebič,Gimnazija Vič,53.5,11
+4. letnik,Jakob Burja,Jerneja Kučina,Gimnazija Jesenice,52,12
+4. letnik,Lovro Klinc,Natalija Zver,Gimnazija Litija,52,12
+4. letnik,Lovro Lotrič,Barbara Kušar,Gimnazija Kranj,52,12
+4. letnik,Klara Demšar,Tjaša Novak Lavriša,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",51.5,15
+4. letnik,Patricija Korošec,Nevenka Jerebica,Gimnazija Koper,51.5,15
+4. letnik,Matija Skrt,Mojca Zgonik Bizjak,Gimnazija Nova Gorica,51.5,15
+4. letnik,Eva Šalamun,Franc Jaklič,Gimnazija Poljane,51,18
+4. letnik,Alja Šlenc,Barbara Kušar,Gimnazija Kranj,51,18
+4. letnik,Lenart Dolinar,Urška Markun,Gimnazija Bežigrad,50,20
+4. letnik,Ana Jagodic,Barbara Kušar,Gimnazija Kranj,49.5,21
+1. letnik,Maša Mežnar,Jana Mahnič Šterling,Gimnazija Koper,63.5,1
+1. letnik,Tjaša Novak,Mitja Bončina,Gimnazija in srednja šola Kočevje,63.5,1
+1. letnik,Jana Bastič,Lea Turnšek,Gimnazija Celje - Center,62.5,3
+1. letnik,Patricia Király,Urška Rihtaršič,Gimnazija Bežigrad,61.5,4
+1. letnik,Živa Likar Kramberger,Mateja Tomažič,"Srednja vzgojiteljska šola, gimnazija in umetniška gimnazija Ljubljana",61.5,4
+1. letnik,Tomaž Holc,Alenka Šuman Irgolič,Gimnazija Ptuj,61,6
+1. letnik,Ajda Gramc,Mateja Tomažič,"Srednja vzgojiteljska šola, gimnazija in umetniška gimnazija Ljubljana",56.5,7
+1. letnik,Domen Kavčič,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",56,8
+1. letnik,Ožbej Markun,Franc Rozman,Gimnazija Kranj,55.5,9
+1. letnik,Kaja Supej,Savina Brcar,Gimnazija Bežigrad,55,10
+1. letnik,Ema Kragelj,Petra Drnovšček,Gimnazija Tolmin,53,11
+1. letnik,Ema Kragelj,Petra Drnovšček,Gimnazija Tolmin,53,11
+1. letnik,Teo Škrabič,Nives Mihelič Erbežnik,Gimnazija Vič,52.5,13
+1. letnik,Nika Videnšek Podgorelec,Bojana Dvoržak,Gimnazija Bežigrad,52,14
+1. letnik,Domen Osterman,Rok Škufca,Gimnazija Kranj,51.5,15
+1. letnik,Lara Stoilov Spasova,Mojca Lokar,Gimnazija Kranj,51,16
+1. letnik,Luka Ogrinc,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",51,16
+1. letnik,Sara Ferreira,Manca Čadež,Gimnazija Škofja Loka,50.5,18
+1. letnik,Manca Pristavec,Dušan Kavka,Gimnazija in srednja šola Rudolfa Maistra Kamnik,50.5,18
+1. letnik,Žiga Vučajnk,Alojz Robnik,I. gimnazija v Celju,50.5,18
+2. letnik,Lana Koren,Vojko Brantuša,II. gimnazija Maribor,71,1
+2. letnik,Peter Andolšek,Urška Markun,Gimnazija Bežigrad,69.5,2
+2. letnik,Barbara Kropec,Vesna Zmazek,Gimnazija Ptuj,68,3
+2. letnik,Filip Zver,Natalija Horvat,Gimnazija Franca Miklošiča Ljutomer,64,4
+2. letnik,Liza Knez,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",63.5,5
+2. letnik,Rok Perko,Karin Kastelic,Elektrotehniško-računalniška strokovna šola in gimnazija Ljubljana,63.5,5
+2. letnik,Sofija Štefan,Irena Fabič Petrač,Gimnazija Koper,61,7
+2. letnik,Bor Kavčič,Petra Drnovšček,Gimnazija Tolmin,60.5,8
+2. letnik,Tinkara Bostič,Urška Markun,Gimnazija Bežigrad,60.5,8
+2. letnik,Nuša Ornik,Vojko Brantuša,II. gimnazija Maribor,60,10
+2. letnik,Luka Golob Šajn,Urška Markun,Gimnazija Bežigrad,60,10
+2. letnik,Oskar Čuk,Urška Markun,Gimnazija Bežigrad,59,12
+2. letnik,Lan Sraka,Bojana Dvoržak,Gimnazija Bežigrad,59,12
+2. letnik,Val Bajc,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",58,14
+2. letnik,Tina Hrastar,Anže Zupanec,Gimnazija Bežigrad,56.5,15
+2. letnik,Vita Kompare,Alojz Čotar,"Šolski center Srečka Kosovela Sežana, Gimnazija in ekonomska šola",55,16
+2. letnik,Luka Vaupot,Simona Vreš,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",54,17
+2. letnik,Veronika Klemenčič,Manca Čadež,Gimnazija Škofja Loka,54,17
+2. letnik,Petra Zadravec,Vojko Brantuša,II. gimnazija Maribor,54,17
+3. letnik,Vita Korošin,Vilko Domajnko,Gimnazija Bežigrad,62.5,1
+3. letnik,Lovro Lotrič,Barbara Kušar,Gimnazija Kranj,58,2
+3. letnik,Nika Šimnovec,Manca Čadež,Gimnazija Škofja Loka,57,3
+3. letnik,Pia Vrečko,Manca Čadež,Gimnazija Škofja Loka,55,4
+3. letnik,Samo Bobnar,Manca Čadež,Gimnazija Škofja Loka,53.5,5
+3. letnik,Lovro Klinc,Natalija Zver,Gimnazija Litija,53,6
+3. letnik,Urška Končar,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",53,6
+3. letnik,Taja Šebenik,Hanka Lebič,Gimnazija Vič,53,6
+3. letnik,Fiona Vodopivec,Helena Skaza Birk,"Šolski center Slovenske Konjice-Zreče, Gimnazija Slovenske Konjice",52.5,9
+3. letnik,Sara Žnidar,Mojca Lokar,Gimnazija Kranj,51.5,10
+3. letnik,Benjamin Kutnar,Matko Peteh,Srednja šola Josipa Jurčiča Ivančna Gorica,51.5,10
+3. letnik,Tjaša Rupar,Manca Čadež,Gimnazija Škofja Loka,51,12
+3. letnik,Jana Likar Ivanov,Matjaž Trošt,Srednja šola Veno Pilon Ajdovščina,50.5,13
+3. letnik,Staša Korpič,Vojko Brantuša,II. gimnazija Maribor,50.5,13
+3. letnik,Neca Camlek,Vilko Domajnko,Gimnazija Bežigrad,50,15
+3. letnik,Matija Omahen,Irena Kovač Gregorčič,Gimnazija in ekonomska srednja šola Trbovlje,50,15
+3. letnik,Lara Rozman,Savina Brcar,Gimnazija Bežigrad,50,15
+3. letnik,Nika Zavašnik,Mojca Lokar,Gimnazija Kranj,49.5,18
+3. letnik,Alina Podlesek,Vanja Špelko,Gimnazija Vič,49,19
+3. letnik,Ivanka Žaberl,Sonja Denša,I. gimnazija v Celju,48,20
+3. letnik,Žan Grčar,Savina Brcar,Gimnazija Bežigrad,48,20
+4. letnik,Rok Tadej Brunšek,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",70,1
+4. letnik,Anja Rupnik,Nataša Šuligoj,Gimnazija Vič,65,2
+4. letnik,Katja Andolšek,Nada Harb,Gimnazija Bežigrad,64.5,3
+4. letnik,Ema Razingar,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",62.5,4
+4. letnik,Rok Šantl,Tatjana Levstek,Gimnazija Ledina,57.5,5
+4. letnik,Aljaž Sovič,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",56.5,6
+4. letnik,Maja Ermenc,Miro Skalicky,Gimnazija Celje - Center,55,7
+4. letnik,Primož Povše,Alojz Robnik,I. gimnazija v Celju,54,8
+4. letnik,Eva Zavec,Urška Markun,Gimnazija Bežigrad,53.5,9
+4. letnik,Luka Ponikvar,Mojca Novoselec,"Srednja šola za farmacijo, kozmetiko in zdravstvo",53.5,9
+4. letnik,Matej Traven,Marta Zabret,Gimnazija in srednja šola Rudolfa Maistra Kamnik,52.5,11
+4. letnik,Maja Leskovar,Alenka Šuman Irgolič,Gimnazija Ptuj,52.5,11
+4. letnik,Matic Kremžar,Urška Markun,Gimnazija Bežigrad,52,13
+4. letnik,Domen Jurkovič,Romana Vrtačič,Gimnazija Vič,51.5,14
+4. letnik,Nik Milek,Urška Markun,Gimnazija Bežigrad,51,15
+4. letnik,Patrik Potočnik,Manca Čadež,Gimnazija Škofja Loka,51,15
+4. letnik,Sara Gradišek,Maja Breznik Kuklec,Gimnazija Šiška,49,17
+4. letnik,Neo Mistral,Vilko Domajnko,Gimnazija Bežigrad,48.5,18
+4. letnik,Ana Zajec,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",48,19
+4. letnik,Rebeka Stres,Milan Zeman,"Zavod sv. Stanislava, Škofijska klasična gimnazija",48,19
+1. letnik,Val Bajc,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",71,1
+1. letnik,Sofija Štefan,Danica Jereb,Gimnazija Koper,70,2
+1. letnik,Brest Lenarčič,Tatjana Cirer,Šolski center Rogaška Slatina,64.5,3
+1. letnik,Peter Andolšek,Urška Markun,Gimnazija Bežigrad,63.5,4
+1. letnik,Petra Zadravec,Vojko Brantuša,II. gimnazija Maribor,60,5
+1. letnik,Bruno Žižmund,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",60,5
+1. letnik,Miha Kosanc,Anže Zupanec,Gimnazija Bežigrad,60,5
+1. letnik,Lucija Medja,Darja Šatej,Gimnazija Jesenice,59,8
+1. letnik,Žan Filipič,Anže Zupanec,Gimnazija Bežigrad,59,8
+1. letnik,Filip Zver,Natalija Horvat,Gimnazija Franca Miklošiča Ljutomer,58.5,10
+1. letnik,Filip Bratovič,Vilko Domajnko,Gimnazija Bežigrad,57.5,11
+1. letnik,Erazem Jošt,Rudi Valenčič,Šolski center Postojna,57,12
+1. letnik,Jakob Žorž,Eva Jug,Gimnazija Škofja Loka,56.5,13
+1. letnik,Timotej Kompare,Marjetka Herodež,"Šolski center Velenje, Elektro in računalniška šola",56.5,13
+1. letnik,Lovro Basar,Uroš Cotman,Gimnazija Ledina,56,15
+1. letnik,Luka Vaupot,Andrej Ruter,"Šolski center Ravne na Koroškem, Gimnazija Ravne na Koroškem",54.5,16
+1. letnik,Neja Raspet,Jasna Kos,Gimnazija Bežigrad,54,17
+1. letnik,Samo Škrabar,Roman Drstvenšek,Gimnazija Brežice,53.5,18
+1. letnik,Eva Lončar,Dušan Kavka,Gimnazija in srednja šola Rudolfa Maistra Kamnik,53.5,18
+1. letnik,Jernej Dežman,Goran Vujović,"Šolski center Kranj, Strokovna gimnazija",53.5,18
+1. letnik,Manca Eržen,Vilko Domajnko,Gimnazija Bežigrad,53,21
+1. letnik,Kaja Bartelj,Mojca Rangus,Gimnazija Novo mesto,52.5,22
+1. letnik,Metod FERJANČIČ,Miha Šušteršič,Škofijska gimnazija Vipava,52.5,22
+1. letnik,Tinej Rajh,Vinko Medic,"Šolski center Novo mesto, Srednja elektro šola in tehniška gimnazija",52.5,22
+1. letnik,Lucija Vrbinc,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",52,25
+1. letnik,Krištof Bučar,Urška Ogrinc,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",51.5,26
+1. letnik,Matic Pogorelec,Vojko Brantuša,II. gimnazija Maribor,51,27
+1. letnik,Maruša Gorkič,Elena Rudolf,Srednja ekonomska šola in gimnazija Maribor,51,27
+2. letnik,Lenart Dolinar,Vilko Domajnko,Gimnazija Bežigrad,72,1
+2. letnik,Pika Kogoj,Nina Sitar,"Biotehniški izobraževalni center Ljubljana, Gimnazija in veterinarska šola",72,1
+2. letnik,Alica Muratović Romih,Bojana Dvoržak,Gimnazija Bežigrad,70,3
+2. letnik,Matija Skrt,Mojca Zgonik Bizjak,Gimnazija Nova Gorica,69,4
+2. letnik,Tine Zaletelj,Hanka Lebič,Gimnazija Vič,66.5,5
+2. letnik,Dominika Tekavc,Rok Škufca,Gimnazija Ledina,65,6
+2. letnik,Urška Končar,Milan Zeman,"Zavod sv. Stanislava za vzgojo, izobraževanje in kulturne dejavnosti",65,6
+2. letnik,Žana Škerjanc,Matko Peteh,Srednja šola Josipa Jurčiča Ivančna Gorica,65,6
+2. letnik,Lara Rozman,Savina Brcar,Gimnazija Bežigrad,64,9
+2. letnik,Erik Červek Roškarič,Vojko Brantuša,II. gimnazija Maribor,63.5,10
+2. letnik,Tjaša Rupar,Manca Čadež,Gimnazija Škofja Loka,63,11
+2. letnik,Pia Vrečko,Manca Čadež,Gimnazija Škofja Loka,62.5,12
+2. letnik,Matija Omahen,Romana Ramšak,Gimnazija in ekonomska srednja šola Trbovlje,62.5,12
+2. letnik,Gašper Vrtačnik,Vesna Zmazek,Gimnazija Ptuj,62.5,12
+2. letnik,Ana Jagodic,Mojca Lokar,Gimnazija Kranj,62,15
+2. letnik,Ema Frančeškin,Mojca Zgonik Bizjak,Gimnazija Nova Gorica,61.5,16
+2. letnik,Katarina Grilj,Primož Riegler,Srednja šola Slovenska Bistrica,61.5,16
+2. letnik,Alexander Gaydukov,Nevenka Jerebica,Gimnazija Koper,61,18
+2. letnik,Ivana Horvat,Mojca Rangus,Gimnazija Novo mesto,61,18
+2. letnik,Monika Simičak,Vanja Špelko,Gimnazija Vič,59,20
+2. letnik,Klara Demšar,Tjaša Novak Lavriša,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",59,20
+2. letnik,Tadej Vovk,Miha Šušteršič,Škofijska gimnazija Vipava,57.5,22
+2. letnik,Nina Gerič,Tadeja Pucko,Gimnazija Murska Sobota,57.5,22
+2. letnik,Val Pšeničnik,Tatjana Cirer,Šolski center Rogaška Slatina,57,24
+2. letnik,Timeja Hojak,Mojca Zgonik Bizjak,Gimnazija Nova Gorica,56.5,25
+3. letnik,Rok Tadej Brunšek,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",64,1
+3. letnik,Blaž Mevlja,Sonja Ivančič,"Šolski center Srečka Kosovela Sežana, Gimnazija in ekonomska šola",51.5,2
+3. letnik,Jana Radaković,Vojko Brantuša,II. gimnazija Maribor,50,3
+3. letnik,Anja Rupnik,Nataša Šuligoj,Gimnazija Vič,49.5,4
+3. letnik,Nejc Urh,Tatjana Dermota,Gimnazija Kranj,49,5
+3. letnik,Luka Ponikvar,Mojca Novoselec,"Srednja šola za farmacijo, kozmetiko in zdravstvo",48,6
+3. letnik,Benjamin Bajd,Tatjana Dermota,Gimnazija Kranj,47.5,7
+3. letnik,Katarina Eva Anderluh,Romana Vrtačič,Gimnazija Vič,47,8
+3. letnik,Matej Traven,Marta Zabret,Gimnazija in srednja šola Rudolfa Maistra Kamnik,46.5,9
+3. letnik,Eva Zavec,Urška Markun,Gimnazija Bežigrad,46,10
+3. letnik,Patrik Potočnik,Eva Jug,Gimnazija Škofja Loka,44.5,11
+3. letnik,Zara Kejžar,Helena Kapus,Gimnazija Kranj,44,12
+3. letnik,Neo Mistral,Vilko Domajnko,Gimnazija Bežigrad,43.5,13
+3. letnik,Maxim Cosovici,Romana Vrtačič,Gimnazija Vič,43.5,13
+3. letnik,Enej Lah,Urška Markun,Gimnazija Bežigrad,43,15
+4. letnik,Simon Bukovšek,Barbara Kušar,Gimnazija Kranj,65.5,1
+4. letnik,Lovro Drofenik,Kristijan Kocbek,I. gimnazija v Celju,64,2
+4. letnik,Marija Jezeršek,Benjamin Tomažič,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",60,3
+4. letnik,Jaka Vrhovnik,Kristijan Kocbek,I. gimnazija v Celju,57,4
+4. letnik,Žiga Kmecl,Urška Rihtaršič,Gimnazija Bežigrad,55,5
+4. letnik,Marija Absec,Tilen Šetina,Srednja šola Črnomelj,52.5,6
+4. letnik,Blaž Matija Samotorčan,Vanja Špelko,Gimnazija Vič,51,7
+4. letnik,Patrik Žnidaršič,Nives Mihelič Erbežnik,Gimnazija Vič,51,7
+4. letnik,Jasmina Kajtazović,Bojana Dvoržak,Gimnazija Bežigrad,49,9
+4. letnik,Katarina Vrbinc,Benjamin Tomažič,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",49,9
+4. letnik,Gal Stanovnik,Vanja Špelko,Gimnazija Vič,48,11
+4. letnik,Jan Malej,Irena Olenik,Gimnazija Koper,48,11
+4. letnik,Taja Atelšek,Brigita Mastnak,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",47,13
+4. letnik,Matic Erpič,Andreja Kramar,Gimnazija Novo mesto,46.5,14
+4. letnik,Lea Stražišar,Bojana Dvoržak,Gimnazija Bežigrad,46.5,14
+4. letnik,Katja Jevšenak,Silvestra Jevšenak,"Šolski center Velenje, Gimnazija",46.5,14
+4. letnik,Zala GRUNTAR,Emilija Grahor,Škofijska gimnazija Vipava,46,17
+4. letnik,Kaja Grošelj,Milan Zeman,"Zavod sv. Stanislava za vzgojo, izobraževanje in kulturne dejavnosti",46,17
+4. letnik,Julija Brecelj,Milan Zeman,"Zavod sv. Stanislava za vzgojo, izobraževanje in kulturne dejavnosti",46,17
+4. letnik,Lana Prijon,Savina Brcar,Gimnazija Bežigrad,46,17
+4. letnik,Sara Mihalič,Benjamin Tomažič,"Zavod sv. Frančiška Saleškega za vzgojo, izobraževanje in kulturne dejavnosti",45.5,21
+4. letnik,Živa Strgar,Mateja Tomažič,"Srednja vzgojiteljska šola, gimnazija in umetniška gimnazija Ljubljana",45.5,21
